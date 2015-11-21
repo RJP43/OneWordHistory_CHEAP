@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Definitions of all the Variations of the Word Cheap</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>OED Online. Oxford University Press, <date when="2015-09">September 2015</date>. Web. <date when="2015-11-21">21 November 2015</date>.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="table">
+           <head><title>Definitions of all the Variations of Cheap Organized by Parts of Speech</title></head>
+            <fs type="verb">
+               <f name="obsolete">
+                  <fs type="intransitive_absolute">  
+                  <f name="cheap" n="1">
+                     <string corresp="definition">To barter, buy and sell; to trade, deal, bargain.</string>
+                     <string corresp="firstUse">c1000 West Saxon Gospels: Matt. (Corpus Cambr.) xxi. 12</string>
+                  </f>
+                     <f name="cheap" n="3">
+                        <string corresp="definition">To bargain for, bid for, offer to buy, offer a price for, ask the price of, ‘price’.</string>
+                        <string corresp="firstUse">c1400 ?c1390 Sir Gawain &amp; Green Knight (1940) l. 1271</string>
+                     </f>
+                  </fs>
+                  <fs type="transitive">  
+                     <f name="cheap" n="2">
+                        <string corresp="definition">To buy.</string>
+                        <string corresp="firstUse">c950 The Lindisfarne Gospels John iv. 8</string>
+                     </f>
+                     <f name="cheap" n="3">
+                        <string corresp="definition">To bargain for, bid for, offer to buy, offer a price for, ask the price of, ‘price’.</string>
+                        <string corresp="firstUse">?c1225 ?a1200  Ancrene Riwle (Cleo. C.vi) (1972) 214</string>
+                     </f>
+                     <f name="cheap" n="4">
+                        <string corresp="definition">To treat or bargain in order to sell, to offer for sale; also (with inf.) to offer to sell.</string>
+                        <string corresp="firstUse">a1225 Juliana 63</string>
+                     </f>
+                     <f name="cheapen" n="1">
+                        <string corresp="definition">To chaffer, haggle about terms with (a person), or about (a bargain).</string>
+                        <string corresp="firstUse">1655 Ld. Orrery Parthenissa IV. ii. vi. 614</string>
+                     </f>
+                  </fs>
+                  <fs type="notCategorized">  
+                     <f name="cheap" n="5">
+                        <string corresp="definition">To fix the price of, set a price on, value.</string>
+                        <string corresp="firstUse">a1464 J. Capgrave Abbreuiacion of Cron. (Cambr. Gg.4.12) (1983) 140</string>
+                     </f>
+                  </fs>
+               </f>
+               <f name="notObsolete">
+                  <fs type="intransitive">
+                     <f name="cheapen" n="1">
+                        <string corresp="definition"></string>
+                        <string corresp="firstUse"></string>
+                     </f>
+                  </fs>
+                  <fs type="transitive">
+                     <f name="cheapen" n="1">
+                        <string corresp="definition"></string>
+                        <string corresp="firstUse"></string>
+                     </f>
+                  </fs>
+                  <fs type="absolute">
+                     <f name="cheapen" n="1">
+                        <string corresp="definition"></string>
+                        <string corresp="firstUse"></string>
+                     </f>
+                  </fs>
+                  <fs type="figurative">
+                     <f name="cheapen" n="1">
+                        <string corresp="definition"></string>
+                        <string corresp="firstUse"></string>
+                     </f>
+                  </fs>
+               </f>
+            
+            </fs>
+         
+         </div>
+      </body>
+  </text>
+</TEI>
