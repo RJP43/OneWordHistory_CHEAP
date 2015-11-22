@@ -98,16 +98,14 @@
     </xsl:template>
     <xsl:template match="fs[@type='adjective']">
         <tr>
-            <td><xsl:apply-templates select=".//fs/@type"/>
-                (<xsl:apply-templates select=".//fs/f[@name='type']"/>)</td>
+            <td><xsl:apply-templates select=".//fs/@type"/></td>
             <td><xsl:apply-templates select=".//fs/f[@name='definition']"/></td>
             <td><xsl:apply-templates select=".//fs/f[@name='firstUse']"/></td>
         </tr>
     </xsl:template>
     <xsl:template match="fs[@type='adverb']">
         <tr>
-            <td><xsl:apply-templates select=".//fs/@type"/>
-                (<xsl:apply-templates select=".//fs/f[@name='type']"/>)</td>
+            <td><xsl:apply-templates select=".//fs/@type"/></td>
             <td><xsl:apply-templates select=".//fs/f[@name='definition']"/></td>
             <td><xsl:apply-templates select=".//fs/f[@name='firstUse']"/></td>
         </tr>
