@@ -91,6 +91,16 @@
     <xsl:template match="fs[@type='noun']">
         <tr>
             <td><xsl:apply-templates select=".//fs/@type"/>
+                <!--2015-11-22 ebb: Here's the problem: You're getting exactly what you request
+                here, but you need to be looping through a list of results, not getting all of 
+                them at once. You want either xsl:for-each, or to set up a new template rule with instructions on oututtping
+             the contents of each inner fs within its own internal table or table row. 
+                It's okay for a table to have nested tables inside. You might break this down a little more 
+                and create for the OUTERMOST hierarchy something like an unordered or ordered list before you
+                break into table elements. But you need to work on getting each of these <fs> units inside its own 
+                <tr>, because currently you're outputting them all together inside a <td> which isn't what you want.
+                
+                -->
                 (<xsl:apply-templates select=".//fs/f[@name='type']"/>)</td>
             <td><xsl:apply-templates select=".//fs/f[@name='definition']"/></td>
             <td><xsl:apply-templates select=".//fs/f[@name='firstUse']"/></td>
