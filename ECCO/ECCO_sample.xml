@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Variations of Cheap in a Sample of Early Eighteenth Century Writings</title>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Eighteenth Century Collections Online. Web. <date when="2015-11-21">21 November 2015</date>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head><title>Sample of Early Eighteenth Century Writings Use of Cheap (gathered from ECCO)</title></head>
+            <div type="table">
+                
+                <fs n="1">
+                    <f name="author">A. S. gent</f>
+                    <f name="title">The gentleman's compleat jockey: with the perfect horse-man and experienc'd farrier...</f>
+                    <f name="date">1715?</f>
+                    <f name="passage">"This Plaister for the cheapness and meanness, will hardly gain Credit with those that are curious, but I dare assure you, that there is not a more excellent or sovereign Plaister belonging to a Horse, ..."</f>
+                    <f name="image">p.151 i.160</f>
+                    <f name="definition">Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price. (adjective)</f>
+                </fs>
+                <fs n="2">
+                    <f name="author"></f>
+                    <f name="title">An address to the people of England: shewing the unworthiness of their behaviour to King George...</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"And yet do they manage their Delusions with such dexterous Skill and Application, that the Deluded People are pleased with their Inchantments, and have no Inclination to be undeceived; but are ready to rush into the Battle with Rebels and Murders; to turn our pleasant Land into a Field of Blood, and to lay their Country Waste with Fire, and Sword, and Plunder, rather than be made sensible that they may be Safe and Happy at a cheaper rate."</f>
+                    <f name="image">p.3 i.2</f>
+                    <f name="definition">Costing little labor, trouble, effort, etc.; easily obtained. (adjective)</f>
+                </fs>
+                <fs n="3">
+                    <f name="author"></f>
+                    <f name="title">An answer to a scurrilous pamphlet, called Donatus redivivus: Or a Reprimand to a Modern Church-Schismatick...</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"Had the partial Compiler condescended to have read the many learned Answers, which in the space of two or three Years last past, have been publish'd, to every particular Objection in this boasted Collection; surely he would never have had the Assurance to repeat them with so much confidence, without taking the least Notice of those Answers, especially since he might have been furnished with them at a cheap rate, and have had one as well as the other for the Trouble of Transcribing: I can guess at no other reason he could have for concealing them..."</f>
+                    <f name="image">p.4-5 i.3-4</f>
+                    <f name="definition">That may be bought at small cost; bearing a relatively low price; inexpensive. (adjective)</f>
+                </fs>
+                <fs n="4">
+                    <f name="author"></f>
+                    <f name="title">Answers to the (pretended) reasons, humbly offer'd for making the river Kennet a free river.</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"BUT supposing, That by the Cheapness, Convenience and Carriage, double the Quanitity of Goods and Provisions, which shou'd afterwards be brought from Newbury, and the Countries..."</f>
+                    <f name="image">i.1</f>
+                    <f name="definition">Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price. (adjective)</f>
+                </fs>
+                <fs n="5">
+                    <f name="author"></f>
+                    <f name="title">The bee. A collection of choice poems. Part "Amusement"</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"I'll drain the life-blood from my heart: / but no cheap tear shall dare to start.</f>
+                    <f name="image">p.1-2 i.4-5</f>
+                    <f name="definition">
+                        <string>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.(adjective)</string>
+                        <string>To hold of small account, think little of, despise.
+                            (adjective)
+                        </string>
+                    </f>
+                </fs>
+                <fs n="6">
+                    <f name="author">Aulnoy, Madame d' (Marie-Catherine)</f>
+                    <f name="title">The diverting works of the Countess d'Anois, author of The ladies travels to Spain.</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"The next day he came to see me, and having made me a thousand Excuses, desir'd me to appear again at Court. And as for the Marquis of Fleuri, he requested me in respect of him, not to make it amiss, that he continu'd in his Confinement for some few days, for returning without his Order. But the Marquis of Fleuri, who did not believe he should come off at so cheap a rate, was not to be found when the sought for him, neither did any body know what was become of him."</f>
+                    <f name="image">p.98 i.107</f>
+                    <f name="definition">To hold of small account, think little of, despise. (adjective)</f>
+                </fs>
+                <fs n="7">
+                    <f name="author">Bentley, Richard.</f>
+                    <f name="title">A sermon upon popery: preach'd before the University of Cambridge</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"Horses, Cows, and sheep, every Animal domestic, the Fields and the Vineyards, the very Furniture of Houses, must be annually blest and sanctified, at a set price for the Blessing. And if the Old set of Saints should be long time grow cheap and vulgar; there still was a reserve in Popery to enhance and quicken the low market by making new and fresh ones in acts of Canonization. "</f>
+                    <f name="image">p.18 i.17</f>
+                    <f name="definition">
+                        <string>Low, poor, disparaging. (adjective)</string>
+                        <string>In poor health; out of sorts (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="8">
+                    <f name="author">Burgess, Daniel</f>
+                    <f name="title">A letter to the Bishop of Salisbury, occasion'd by his son's letter to the Earl of Hallifax.</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"Is it likely that any Nation in the four Quarters of the World would entertain such a Colony? No, we have suffer'd 'em to nest in Great Britain, and must ev'n keep them for our Punishment. The Plagues of Egypt would be a cheap way of getting rid of them, to change their Ministers for a Murrain, and their Priests for Locusts; but as the Case stands, there's no helping it. </f>
+                    <f name="image">p.23 i.24</f>
+                    <f name="definition">
+                        <string>Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price. (adjective)</string>
+                        <string>Costing little labor, trouble, effort, etc.; easily obtained. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="9">
+                    <f name="author"></f>
+                    <f name="title">The rise and growth of fanaticism: or, a view of the principles, plots, and pernicious practices of the dissenters, for upwards of 150 years.</f>
+                    <f name="date">1715</f>
+                    <f name="passage">"But can any one tell what might be the Design of the Presbyterians in North-Britain, soon after the late Revolution, to re-print Buchanan's and Milton's condemn'd Treatises, to cheapen the Impression, recommend the reading of them from their Chairs and Pulpits, and to put them into the Hands of School-Boys, and Students in their Colleges?"</f>
+                    <f name="image">p.19 i.18</f>
+                    <f name="definition">To lower in estimation, cause to be thought little of, bring into contempt, vilify. (verb-figurative)</f>
+                </fs>
+                <fs n="10">
+                    <f name="author">Davenant, Charles</f>
+                    <f name="title">An account of the trade between Great-Britain, France, Holland, Spain, Portugal, Italy, Africa, Newfoundland...</f>
+                    <f name="date">1715</f>
+                    <f name="passage">
+                        <string>
+                            "if you prohibit French Wines, and yet will have them, it must come from a third Hand; to that third Hand you are forc'd to sell your native Product at a cheap Rate, and to pay them dear for what they import foreign..." 
+                        </string>
+                        <string>
+                            "they bring us back our own Wheat, because of the Premium we give upon Exportation, and which they are enabled to do, by having large Granaries almost in every Great Town, wherein they store large Quantities in cheap years, to answer the Demands of other Countries."
+                        </string>
+                        <string>
+                            "Which Goods being Bought Cheap in the Indies, and Sold dear in Europe, ought to turn richly to the Importers Account..." 
+                        </string>
+                        <string>
+                            "whereby they Sell Dear what they Buy Cheap from us"
+                        </string>
+                    </f>
+                    <f name="image">
+                        <string>p.49 i.49</string>
+                        <string>p.30 i.108</string>
+                        <string>p.36 i.114</string>
+                        <string>p.39 i.117</string>
+                    </f>
+                    <f name="definition">
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear. (adjective)</string>
+                        <string>Costing little labor, trouble, effort, etc.; easily obtained. (adjective)</string>
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear. (adjective)</string>
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear. (adjective)</string>
+                    </f>
+                </fs>
+            </div>
+        </body>
+    </text>
+</TEI>
+

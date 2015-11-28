@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Variations of Cheap in a Sample of Early Nineteenth Century Writings</title>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Nineteenth Century Collections Online. Web. <date when="2015-11-21">21 November 2015</date>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head><title>Sample of Early Nineteenth Century Use of Cheap (gathered from NCCO)</title></head>
+            <div type="table">
+                <fs n="1">
+                    <f name="author">Woodhouse, James</f>
+                    <f name="title">Observations on Several Methods of Obtaining Oxygenous Gas in a Very Pure State.</f>
+                    <f name="date">1803</f>
+                    <f name="passage">"A cheap and easy method of obtaining oxygenous gas, perfectly pure, in large quantities, has long been a desideratum with chemists."</f>
+                    <f name="image">p.109 i.5</f>
+                    <f name="definition">
+                        <string>Costing little labour, trouble, effort, etc.; easily obtained. (adjective)</string>
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="2">
+                    <f name="author"></f>
+                    <f name="title">Burns's Obstetrical Works. The Medical Repository (New York, NY, United States)</f>
+                    <f name="date">1808</f>
+                    <f name="passage">"The distinguished favour with which Mr. Burn's Anatomy of the Gravid Uterus, his work on Abortion, and that on Uterine Hemorrhage, have been received by the most eminent members of the profession, in every part of Great Britain, leaves no room to doubt their meeting a welcome reception in this country, as soon as a cheap edition of them can be circulated. For this purpose, Messrs. Collins and Perkins have put them to press in a single octavo volume, and will have them ready for publication, within a few weeks, at one fourth of the price of the British edition."</f>
+                    <f name="image">i.94</f>
+                    <f name="definition">That may be bought at small cost; at a lower rate than the ordinary cost. (adjective)</f>
+                </fs>
+                <fs n="3">
+                    <f name="author"></f>
+                    <f name="title">Miscellaneous. The Lady's Weekly Miscellany (New York, NY, United States), Issue 25</f>
+                    <f name="date">1810</f>
+                    <f name="passage">"The ornament of Sobriety which comes next to be considered, is by no mean a cheap one. But though it be ourchased with difficulty, it is lost with ease. To preserce it will require the unremitted exercise of prudence, vigilance, and severe circumspection..."</f>
+                    <f name="image">p.388 i.4</f>
+                    <f name="definition">Involving little trouble and hence of little worth; worthless, paltry. (adjective)</f>
+                </fs>
+                <fs n="4">
+                    <f name="author"></f>
+                    <f name="title">Recent Publications. The New York Medical Inquirer (New York, NY, United States)</f>
+                    <f name="date">1810</f>
+                    <f name="passage">"A late discovery extremely interesting to Planters and Farmers, relative to fertilizing poor and exhausted fround, upon a cheap and easy plan, with some remarks and observations on Orcharding and Gardening."</f>
+                    <f name="image">p.144 i.146</f>
+                    <f name="definition">
+                        <string>Costing little labour, trouble, effort, etc.; easily obtained. (adjective)</string>
+                        <string>Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="5">
+                    <f name="author">More, Hannah</f>
+                    <f name="title">The Works of Hannah More, Including Several Pieces Never before Published</f>
+                    <f name="date">1813</f>
+                    <f name="passage">
+                        <string>"Come, come, don't make a fuss about trifles. If every one did it indeed it would be another thing; but as to my getting a little good brandy cheap, why that can't hurt the revenue much."</string>
+                        <string>"And here I cannot help saying, I wish drivers would not be too hard in their demands, if they help a poor sick traveller on a mile or two; it proves a great relief to weary bodies and naked feet; and such little cheap charities may be considered as the cup of cold water, which, if given on right grounds, shall not lose its reward."</string>
+                        <string>"she took care never to walk out without a few little good books in her pocket to give away. This, though a cheap, is a most important act of chairty; it has various uses; it furnished the poor with religious knowledge, which they have so few ways of obtaining..."</string>
+                        <string>"the poor would get the coarse pieces of meat cheaper, if the the gentle-folks did not buy them for soups and gravy. Mrs Jones thought there was reason in this: so away she went to...the only persons in the parish who could afford to buy these costly things. She told them, that if they would all be so good as to buy only prime pieces, which they could very well afford, the coarse and cheap joints would come more within the reach of the poor."</string>
+                    </f>
+                    <f name="image">
+                        <string>p.60 i.58</string>
+                        <string>p.144 i.142</string>
+                        <string>p.170 i.168</string>
+                        <string>p.173 i.171</string>
+                    </f>
+                    <f name="definition">
+                        <string>At a low price, at small expense, cheaply; with little trouble, easily. (adverb)</string>
+                        <string>Costing little labour, trouble, effort, etc.; easily obtained. (adjective)</string>
+                        <string>That costs little (trouble, etc.), easily obtained due to being plentiful or abundant.(noun)</string>
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="6">
+                    <f name="author"></f>
+                    <f name="title">Anecdote of Fitrot, a Famous French Dancing-Master. La Belle Assemblée (London, United Kingdom) Issue Sixty-fifth</f>
+                    <f name="date">1814</f>
+                    <f name="passage">"he never made his appearance on the stage till in the last act of a ballet. The Emperor once desired he would make his entre at the end of the first act. Pitrot told the messenger that "Men of talent never made themselves too cheap." The Emperor and all the court immediately quitted the Opera-house."</f>
+                    <f name="image">p.256 i.17</f>
+                    <f name="definition">
+                        <string>Low, poor, disparaging. (adjective)</string>
+                        <string>To hold of small account, think little of, despise. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="7">
+                    <f name="author"></f>
+                    <f name="title">The Briton (London, United Kingdom). The Avowed Object of Some of the Reformers of the Present Day Is the Establishment of Atheism or Deism...</f>
+                    <f name="date">1819</f>
+                    <f name="passage">"The avowed object of some of the Reformers of the present day is the establishment of Atheism or Deism; and the tendency of many of their cheap publications is to ridicule religion and to bring the Bible into contempt. The number of Deistical publications, and the industry with which they are disseminated, must astonish every person; and the probable effects of the perusal of them, must fill every friend of religion with alarm."</f>
+                    <f name="image">i.1</f>
+                    <f name="definition">
+                        <string>Low, poor, disparaging. (adjective)</string>
+                        <string>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar. (adjective)</string>
+                    </f> 
+                </fs>
+                <fs n="8">
+                    <f name="author"></f>
+                    <f name="title">Caroline, Queen. Papers Relating to Queen Caroline. The Times, London.</f>
+                    <f name="date">1820</f>
+                    <f name="passage">"Court publications of yesterday, furnish us with the names and abodes of half-a-dozen little knots of address-makers, most of which were already public. With those who have no doubts to satisfy - no differences to trouble them, nor opinions to form, but whose task is simply to obey the injunctions of a master - addresses are as cheap as Christmas pies. It is only to set a single puppet going, and the rest will dance to the same wire. But it really would puzzle any novice to make out the drift of what are nicknamed 'Loyal addresses'."</f>
+                    <f name="image">i.175</f>
+                    <f name="definition">
+                        <string>Involving little trouble and hence of little worth; worthless, paltry. (adjective)</string>
+                        <string>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar. (adjective)</string>
+                    </f>
+                </fs>
+                <fs n="9">
+                    <f name="author">Latham, John.</f>
+                    <f name="title">On the Medicinal Properties of the Solanum Tuberosum, or Potato Plant</f>
+                    <f name="date">1820</f>
+                    <f name="passage">"We have many medicines, but few remedies. Of the former, many are expensive exotics, as opium for example; and therefore it would be exceedingly desirable, both in point of economy, and to check the inducements towards adulteration, if substitutes, of easy access and cheap materials, could be procured. This is leaving out of the question the chance or hope of discovering useful properties in the new articles investigated."</f>
+                    <f name="image">p.400 i.64</f>
+                    <f name="definition">Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price. (adjective)</f>
+                </fs>
+                <fs n="10">
+                    <f name="author">Lady Humdrum, pseud.</f>
+                    <f name="title">Domestic scenes: a novel</f>
+                    <f name="date">1820</f>
+                    <f name="passage">The return of Henry from the Priory entirely relieved Emily's anxieties respecting its inmates; nor could she help being amused with Katty's reliance on the efficacy of her P.S.; and still greater amusement did she afterwards, very contrary to her intnention, afford her invalid, when in her zeal for the school, and ignorance of lacalities, she imparted the commission for cheap flannel.</f>
+                    <f name="image">p.5</f>
+                    <f name="definition">
+                        <string>That may be bought at small cost; bearing a relatively low price; inexpensive. (adjective)</string>
+                        <string>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar. (adjective)</string>
+                    </f>
+                </fs>
+            </div>
+        </body>
+    </text>
+</TEI>
