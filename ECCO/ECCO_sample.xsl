@@ -33,7 +33,7 @@
     <xsl:template match="fs[@n='1']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -43,7 +43,7 @@
     <xsl:template match="fs[@n='2']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -53,7 +53,7 @@
     <xsl:template match="fs[@n='3']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -63,7 +63,7 @@
     <xsl:template match="fs[@n='4']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -73,7 +73,7 @@
     <xsl:template match="fs[@n='5']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -87,7 +87,7 @@
     <xsl:template match="fs[@n='6']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -97,7 +97,7 @@
     <xsl:template match="fs[@n='7']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -111,7 +111,7 @@
     <xsl:template match="fs[@n='8']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -125,7 +125,7 @@
     <xsl:template match="fs[@n='9']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td><xsl:apply-templates select=".//f[@name='passage']"/></td>
             <td><xsl:apply-templates select=".//f[@name='image']"/></td>
@@ -135,7 +135,7 @@
     <xsl:template match="fs[@n='10']">
         <tr>
             <td><xsl:apply-templates select=".//f[@name='author']"/></td>
-            <td><xsl:apply-templates select=".//f[@name='title']"/></td>
+            <td><i><xsl:apply-templates select=".//f[@name='title']"/></i></td>
             <td><xsl:apply-templates select=".//f[@name='date']"/></td>
             <td>
                 <xsl:text>1. </xsl:text><xsl:apply-templates select=".//f[@name='passage']/string[1]"/>

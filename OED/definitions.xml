@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div id="definitions">
+    <ref type="cheap">
+        <entry type="verb" subtype= "intransitive" ana="obsolete">
+            <string>To barter, buy and sell; to trade, deal, bargain.</string>
+        </entry>
+        <entry type="verb" subtype= "transitive" ana="obsolete">
+            <string>To bargain for, bid for, offer to buy, offer a price for, ask the price of, 'price'.</string>
+            <string>To buy.</string>
+            <string>To treat or bargain in order to sell, to offer for sale; also (with inf.) to offer to sell.</string>
+        </entry>
+        <entry type="verb" ana="obsolete">
+            <string>To fix the price of, set a price on, value.</string>
+        </entry>
+        <entry type="noun" subtype="simple" ana="obsolete">
+            <string>A bargain about the bartering or exchanging of one commodity for another, or of giving money or the like for any commodity; bargaining, trade, buying and selling.</string>
+            <string>The place of buying and selling; market.</string>
+            <sring>That which is given in exchange for a commodity; price; value.</sring>
+            <string>Exchangeable commodities, merchandise, goods, chattels, esp. (live) cattle.</string>
+        </entry>
+        <entry type="noun" subtype="contextual" ana="obsolete">
+            <string>Bargain, purchase; qualified from the buyer's point of view as good, great, etc., as in the modern 'a good bargain', 'a great bargain', 'a bargain'.</string>
+            <string>State of the market, qualified from the buyer's point of view as good, dear, etc. good cheap: a state of the market good for the purchaser; low prices, abundance of commodities, plenty, cheapness. So dear cheap: a dear market, high prices, dearth, scarcity.</string>
+            <string>Abundance of commodities, plenty, cheapness; opposed to dearth.</string>
+        </entry>
+        <entry type="noun" subtype="transferred" ana="obsolete">
+            <string>Plenty, abundance.</string>
+            <string>That costs little (trouble, etc.), easily obtained; plentiful, abundant; of small value.</string>
+            <string>On good terms, with little effort.</string>
+        </entry>
+        <entry type="adjective" ana="inUse">
+            <string>That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</string>
+            <string>Applied to money obtainable at a low rate of interest.</string>
+            <string>Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price.</string>
+            <string>Involving little trouble and hence of little worth; worthless, paltry.</string>
+            <string>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</string>
+            <string>to hold cheap: to hold of small account, think little of, despise.</string>
+            <string>Low, poor, disparaging.</string>
+        </entry>
+        <entry type="adjective" subtype="transferred" ana="inUse">
+            <string>(Applied to the price itself, the place where a commodity is sold, etc.) cheap fare: a fare at a lower rate than the ordinary fare; also cheap rate; also attrib.</string>
+        </entry>
+        <entry type="adjective" subtype="figurative" ana="inUse">
+            <string>Costing little labour, trouble, effort, etc.; easily obtained.</string>
+        </entry>
+        <entry type="adjective" subtype="slang" ana="inUse">
+            <string>In poor health; out of sorts. (Hence cheapness.)</string>
+        </entry>
+        <entry type="adverb" ana="inUse">
+            <string>At a low price, at small expense, cheaply; with little trouble, easily.</string>
+        </entry>
+    </ref>
+    <ref type="cheapen">
+        <entry type="verb" subtype="transitive" ana="inUse">
+            <string>To bargain for, ask the price of, bid for offer a price for.</string>
+            <string>to make cheap, lower the price of.</string>
+        </entry>
+        <entry type="verb" subtype="absolute" ana="inUse">
+            <string>To bargain, chaffer.</string>
+        </entry>
+        <entry type="verb" subtype="transitive" ana="obsolete">
+            <string>To chaffer, haggle about terms with a person, or about a bargain</string>
+        </entry>
+        <entry type="verb" subtype="figurative" ana="inUse">
+            <string>To lower in estimation, cause to be thought little of, bring into contempt, vilify.</string>
+        </entry>
+        <entry type="verb" subtype="intransitive" ana="inUse">
+            <string>To become cheap.</string>
+        </entry>
+    </ref>
+    <ref type="cheapness">
+        <entry type="noun" ana="inUse">
+            <string>Quality of being cheap; lowness of price or cost.</string>
+        </entry>
+    </ref>
+    <ref type="cheaply">
+        <entry type="adverb" ana="inUse">
+            <string>At a low price, at a cheap rate, at small cost.</string>
+            <string>In low esteem, lightly, slightingly.</string>
+        </entry>
+    </ref>
+</div>
+
+

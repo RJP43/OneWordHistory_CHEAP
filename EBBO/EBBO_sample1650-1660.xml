@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+    <head><title>Early English Books Online Sample</title> <dateRange>(1650-1660)</dateRange></head>
+    <!-- Significant increase in hits in comparison to 1550-1560 range -->
+    <body>
+        <bibl n="1" type="text">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="extended">A briefe description of the two revolted nations Holland and England. Against their true and lawfull Kings, lawes, and statutes, to the dishonour of God, and the losse of their owne soules for ever. Who are now in open rebellion, oppressing their fellow-subiects by excises, taxes, assessements, and extortion; exceeding all Turks, Jews, heathens, infidells, pagons, traytors, and rebells.</title>
+            <title level="short">A briefe description of the two revolted nations Holland and England.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1650">1650</date>
+            <passage>"None amongst them have Authority by Inheritance; that was to percell out their Countrey into Families; but they are chosen (as our King did use to prick Shreiffes for their Countries) not for their fulnesse of Wit, but for their Wealth they have to beare it out with, which they so ever affected, that they will walke the streets (like out Usurers, when they go to a Baudy-house) all alone melancholly, and if they may be had cheape, shall daube his faced Cloake with two penny worth of Pickled Herrings, which himselfe shall carry home in a string."</passage>
+            <document>i.4 p.4</document>
+            <definition>At a low price, at small expense; with little trouble, easily.</definition>
+            <partOfSpeech>adverb</partOfSpeech>
+        </bibl>
+        <bibl n="2" type="text">
+            <author>
+                <name>
+                    <surname>Bromwich</surname>
+                    (<forename>Isaac</forename>)</name>
+            </author>
+            <title level="extended">The spoiles of the forest of Deane asserted in answer to a scurrilous libell lately set forth to blast the justice and proceedings of some commissioners of Parliament in that behalfe</title>
+            <title level="short">The spoiles of the forest of Deane</title>
+            <printPlace>London, England</printPlace>
+            <date when="1650">1650</date>
+            <passage>"Tis a cheap and easie way of requitall, when a man hath stoln a goose to stick down a feather, and when Master Pury hath been not only assenting to, but active in the spoile of so brave a Forrest, to give afterward a chill and flegmatick charge, that no trees should forsooth be cut down, but what the preservators allotted, is an excellent satisfaction to the state, and if they please to be paid with such Copper-Coyne, I will undertake they shall have chap-men by the dozens, the true English of that charge being no more but this, that he left command to (the Yeoman of his guard) the officers of the Forrest, they should take especiall heed, that onely the well grown and goodly Oaks and Beeches should be hewn down"</passage>
+            <document>i.3 p.3</document>
+            <definition>Involving little trouble and hence of little worth; worthless, paltry.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="3" type="text">
+            <author>
+                <name>
+                    <surname>Cheynell</surname>
+                    (<forename>Francis</forename>)</name>
+            </author>
+            <title level="extended">The divine trinunity of the Father, Son, and Holy Spirit, or, The blessed doctrine of the three coessentiall subsistents in the eternall Godhead without any confusion or division of the distinct subsistences or multiplication of the most single and entire Godhead acknowledged, beleeved, adored by Christians, in opposition to pagans, Jewes, Mahumetans, blasphemous and antichristian hereticks, who say they are Christians, but are not / declared and published for the edification and satisfaction of all such as worship the only true God, Father, Son, and Holy Spirit, all three as one and the self same God blessed for ever</title>
+            <title level="short">The divine trinunity of the Father, Son, and Holy Spirit</title>
+            <printPlace>London, England</printPlace>
+            <date when="1650">1650</date>
+            <passage>"And if Christ hath not redeemed the Church with the blood of God, then the Church is not redeemed; your Faith and our preaching are both vain, because you and we are yet in our sins; for then God hath not received satisfaction for our sins, nor a sufficient ransome for our souls. If the Son of God did not take flesh, then was not God manifested in the flesh; then the whole mystery of godlinesse which should be without con|troversie great and precious in the eyes of Christians, will be cheap, and vile, and of no account; for the whole mystery of godlinesse, 1 Tim. 3. 16. depends upon the manifestation of God in the flesh; Now the divine person of the Son took flesh; the person of the Father was not incarnate."</passage>
+            <document>i.150 p.262</document>
+            <definition>Involving little trouble and hence of little worth; worthless, paltry.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="4" type="text">
+            <author>
+                <name>
+                    <surname>Culpeper</surname>
+                    (<forename>Nicholas</forename>)</name>
+            </author>
+            <title level="extended">Culpeper's last legacy left and bequeathed to his dearest wife, for the publicke good, being the choicest and most profitable of those secrets which while he lived were lockt up in his breast, and resolved never to be publisht till after his death. Containing sundry admirable experiences in severall sciences, more especially, in chyrurgery and physick, viz. compounding of medicines, making of waters, syrrups, oyles, electuaries, conserves, salts, pils, purges, and trochischs. With two particular treatises; the one of feavers; the other of pestilence; as also other rare and choice aphorisms, fitted to the understanding of the meanest capacities. Never publisht before in any of his other works.</title>
+            <title level="short">Culpeper's Last Legacies</title>
+            <printPlace>London, England</printPlace>
+            <date when="1655">1655</date>
+            <passage>"When People have gotten an inflammation in any wound, the vulgar say they have gotten the Ague in it, as 'tis familiar when Womens breasts are inflamed, to say they have the Ague in their breasts, a speedy way, and as cheap as speedy, (that I may not keepe such a quarter about the name, as the Colledge of Physitians did, about the Rickers) is to take malt flower and make it into the forme of a Caraplasme or Pultis with Vertjuyce and apply it, be the place in Arm, Leg, or Breast, or elswhere, either with wound or without."</passage>
+            <document>i.41 p.23</document>
+            <definition>Bearing a low price in proportion to its intrinsic value.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="5" type="text">
+            <author>
+                <name>
+                    <surname>Sondes</surname>
+                    (<forename>George</forename>)</name>
+            </author>
+            <title level="extended">Sir George Sondes his plaine narrative to the vvorld, of all passages upon the death of his tvvo sonnes.</title>
+            <title level="short">Sir George Sondes his plaine narrative</title>
+            <printPlace>London, England</printPlace>
+            <date when="1655">1655</date>
+            <passage>"'Tis said I am an hard Land-Lord, and raise my Rents. I confesse as Tenants Leases expired, I took no Fines to renew, as my ancestors used to doe, but let out my Farmes at improved Rents, both the Tenant and my selfe better liking of it. But I doe not know that I let Farme to any Tenant, for more then I thought, (and I had some little skill) it was really and honestly worth, nor for more then, (had I been to have taken a Farme) I would have given for it my selfe. Nor have I any Tenant (though the times be now very bad) who shall say, Sir, my Farme is too deare, I cannot live upon it at the Rent, if he leave it to me but as good as it was when he took it, I will take it againe. Nay, notwithstanding Corn is so cheap, I give any Tenant I have, liberty to leave his Farme, and I will take it. I never did, or ever will, force any Tenant to keep his Farme. Neither in all this time, hath any Tenant come to me to take his Farme again."</passage>
+            <document>i.8 p.13</document>
+            <definition>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+    </body>
+</sample>
+

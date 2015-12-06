@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+    <head><title>Early English Books Online Sample</title> <dateRange>(1550-1560)</dateRange></head>
+    <body>
+        <bibl n="1" type="sermon">
+            <author>
+                <name>
+                    <surname>Leuer</surname>
+                    (<forename>Thomas</forename>)</name>
+            </author>
+            <title level="extended">A sermon preached at Pauls Crosse the xiiii day of December by Thomas Leuer.</title>
+            <title level="short">Sermon preached at Pauls crosse</title>
+            <printPlace>London, England</printPlace>
+            <date when="1550">1550</date>
+            <passage>"And therefore nowe the most part of men lackyng teachers &amp; rulers, do without griefe of conscience, or feare of punishment, abuse euery thynge vnto the ruine and destruccion, whyche God hath ordayned vnto the vphol|dyng &amp; increase of a christia commune welth. As for example, now bying and sellyng is not vsed as a prouision for good cheape and great plenty, but made the most occasyon of dearth and scarsitie. Wealth and wyt be not ryghtly vsed vnto a common confortable pro fyt, but shamefully abused vnto a wycked priuate gayne."</passage>
+            <document>i.7</document>
+            <definition>Abundance of commodities; opposed to dearth.</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="2" type="book">
+            <author>
+                <name>
+                    <surname>Bailey</surname>
+                    (<forename>Godfridus</forename>)</name>
+            </author>
+            <title level="extended">Here begynneth the boke of knowledge of thynges vnknowen aperteynynge to astronomye with certayne necessarye rules, and certayne speres contaynyng herein compyled by Godfridus super Palladum de agricultura Anglicatum.</title>
+            <title level="short">This booke of astronomye</title>
+            <printPlace>London, England</printPlace>
+            <date when="1554">1554</date>
+            <passage>"Thondre in August, sygnyfyeth the same yere sorowe welyng of many, and o moste hotethynges, and also many shalbe syeke. Thondre in Septembre, sygnyfyeth that same yere great wynde copye of corne, that is to saye, plenteous, and occasyon of folke, that is to say, moch fallynge. Thondre in Octobre sygnyfyth y same yeare, great wynde and scantnes of Cornes, and fruites of trees, Thondre in Nouembre sygnyfyeth that same yere to be fruytfull, and mery, and chepe corne. Thondre in Decembre sygnyfyeth that same yeare chepe corne, &amp; of wheere, peas and accorde amonge the people."</passage>
+            <document>i.16</document>
+            <definition>Plenty, abundance</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="3" type="text">
+            <author>
+                <name>
+                    <surname>Smith</surname>
+                    (<forename>Richard</forename>)</name>
+            </author>
+            <title level="extended">A bouclier of the catholike fayth of Christes church conteynyng diuers matters now of late called into controuersy, by the newe gospellers. Made by Richard Smith, doctour of diuinitee, [and] the Quenes hyghnes reader of the same I her graces vniuersite of oxford.</title>
+            <title level="short">Bouclier of the Catholike fayth.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1554">1554</date>
+            <passage>"The abbeyes tilled much corne, for the sustentacion of many men, women, and children, but now shepe &amp; beastes are fedde there, which do in a maner eate vp men, women, and chyldren, &amp; do cause al thinges to be extreamely deare. The abbaies raised no rentes, whereby the tenantes lyued welthily, &amp; selled euery thyng good chepe, where now their landes are so improued, and the rentes of them so muche augmented, and encreased, that the tenauntes liue but poorely, and are constrayned to sell euery thyng thre times more dearely, than they wer accustomed afore to dooe or els they can not pay their rentes."</passage>
+            <document>i.32</document>
+            <definition>Bargain, purchase; qualified from the buyer's point of view as good, great</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="4" type="text">
+            <author>
+                <name>
+                    <surname>Digges</surname>
+                    (<forename>Leonard</forename>)</name>
+            </author>
+            <title level="extended">A prognostication of right good effect fructfully augmented, contayninge playne, briefe, pleasant, chosen rules, to iudge the wether for euer, by the sunne, moone, sterres, cometes, raynbowe, thunder, cloudes, with other extraordinarie tokens, not omitting the aspectes of planetes, with a brefe iudgemente for euer, of plentie, lacke, sickenes, death, vvarres &amp;c. Openinge also many naturall causes, woorthy to be knowe[n]. To these and others, now at the last are adioyned, diuers general pleasaunte tables: for euer manyfolde wayes profitable, to al maner men of vnderstanding: therfore agayne publisshed by Leonard Dygges Gentylman, in the yeare of oure Lorde.</title>
+            <title level="short">Prognostication of right good effect.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1555">1555</date>
+            <passage>"On Saterday, a mean Wynter: Somer very hote: a late Heruest, good cheape garden herbes: muche burninge: plentye of Hempe, Flaxe, and Honye: olde folke shall dye in moste places: Feuers and Tertians shall greue many people: greate mutteringe of warres: murders shalbe sodenly committed in many places, for lyght matters."</passage>
+            <document>i.12</document>
+            <definition>Plenty, abundance</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="5" type="text">
+            <author>
+                <name>
+                    <surname>Heywood</surname>
+                    (<forename>John</forename>)</name>
+            </author>
+            <title level="extended">Two hundred epigrammes, vpon two hundred prouerbes with a thyrde hundred newely added and made by Iohn Heywood.</title>
+            <title level="short">Two hundred epigrammes, vpon two hundred prouerbes</title>
+            <printPlace>London, England</printPlace>
+            <date when="1555">1555</date>
+            <passage>"Measure is a mery meane. 
+                Be drynke deare or good cheape: 
+                From measure no wyght, may the weane: 
+                Thou measurst drynke by heape."</passage>
+            <document>i.15</document>
+            <definition>Plenty, abundance</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="6" type="text">
+            <author>
+                <name>
+                    <surname>Huggarde</surname>
+                    (<forename>Miles</forename>)</name>
+            </author>
+            <title level="extended">The displaying of the Protestantes, [and] sondry their practises, with a description of diuers their abuses of late frequented Newly imprinted agayne, and augmented, with a table in the ende, of all suche matter as is specially contained within this volume. Made by Myles Huggarde seruant to the Quenes maiestie.</title>
+            <title level="short">The displaying of the Protestantes</title>
+            <printPlace>London, England</printPlace>
+            <date when="1556">1556</date>
+            <passage>"They folowed subuersions of abbaies, being another similitude of godlines perswaded by the sayd protestantes, by whose pytifull spoyle procedeth the decaye of our common wealth. For it was thought before their subuersion that all thynges woulde be better cheape, but they became as good cheape as thinges did in Rome, after the makyng of the lawe, called Agraria."</passage>
+            <document>i.111 p.110</document>
+            <definition>That is a good bargain, that can be purchased on advantageous terms; low-priced</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="7" type="treatise">
+            <author>
+                <name>
+                    <surname>Ponet</surname>
+                    (<forename>John</forename>)</name>
+            </author>
+            <title level="extended">A shorte treatise of politike pouuer and of the true obedience which subiectes owe to kynges and other ciuile gouernours, with an exhortacion to all true naturall Englishe men</title>
+            <title level="short">A shorte treatise of politike pouuer</title>
+            <printPlace>London, England</printPlace>
+            <date when="1556">1556</date>
+            <passage>"they seke not abstinence from synne, and the wealthe of the people, but their owne priuate profit. For if they had their eie to Goddes glorie and the benefite of the people, and the vice to be taken cleane awaie: they wold not croppe of the braunches of the tree, and let the roote growe, but they wolde roote vp the roote that it should no more growe. And son of this sort do it to this ende, to make thinges better cheape. For (thinke they) if ther were but littell money, than must thinges be solde better cheape. As though it laye in them to make pleyntie and scarcitie, and as though thone were not the bounteous benefite of God sentto them that feare and loue him: and the other his plage iustly powred on them that hate him."</passage>
+            <document>i.41</document>
+            <definition>That is a good bargain, that can be purchased on advantageous terms; low-priced</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="8" type="sermon">
+            <author>
+                <name>
+                    <surname>Edgeworth</surname>
+                    (<forename>Roger</forename>)</name>
+            </author>
+            <title level="extended">Sermons very fruitfull, godly, and learned, preached and sette foorth by Maister Roger Edgeworth, doctoure of diuinitie, canon of the cathedrall churches of Sarisburie, Welles and Bristow, residentiary in the cathedrall churche of Welles, and chauncellour of the same churche: with a repertorie or table, directinge to many notable matters expressed in the same sermons</title>
+            <title level="short">Sermons very fruitfull, godly, and learned</title>
+            <printPlace>London, England</printPlace>
+            <date when="1557">1557</date>
+            <passage>"Chastitie in virgin, wife, and wydowe consisteth and standeth not onely in the sounde integritie, and wholenes of their flesshe, but also in a certayne shamefastnes and honesty of their apparell, for lightly there is no more precious and costlye dressynge then is amonge them whose honestye is lyght cheape. Therfore in no case let your raymente deface and sclaunder the sinceritie and integritie of your bodies, but that like as you kepe your bodyes chaste and cleane after your callynge, whether it be virginitye, mariage, or wydowehode."</passage>
+            <document>i.220</document>
+            <definition>That costs little (trouble, etc.), easily obtained; plentiful, abundant</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="9" type="poem">
+            <author>
+                <name>
+                    <surname>Baldwin</surname>
+                    (<forename>William</forename>)</name>
+            </author>
+            <title level="extended">The funeralles of King Edward the sixt VVherin are declared the causers and causes of his death.</title>
+            <title level="short">The funeralles of King Edward the sixt</title>
+            <printPlace>London, England</printPlace>
+            <date when="1560">1560</date>
+            <passage>"Repent you caytifes your raysing of rent / Your fines, your incoms, yet never at a stent. / Your turning of tillage so much into pasture, / That townes and towneships are ruyned past cure: / Your wasting of woods, your ingrossing chepe wares, / To make dearth of plenty, to encreace others cares. / For this was the cause of the Kings death in dede, / And wil be the kingdomes without better hede."</passage>
+            <document>i.10</document>
+            <definition>That may be bought at small cost; bearing a relatively low price; inexpensive.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+    </body>
+</sample>
