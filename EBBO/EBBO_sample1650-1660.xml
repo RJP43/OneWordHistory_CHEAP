@@ -49,6 +49,44 @@
         <bibl n="4" type="text">
             <author>
                 <name>
+                    <surname>Scudéry</surname>
+                    (<forename>Madeleine de</forename>)</name>
+            </author>
+            <translator>
+                <name>
+                    <surname>Cogan</surname>
+                    (<forename>Henry</forename>)</name>
+            </translator>
+            <title level="extended">Ibrahim, or, The illustrious bassa an excellent new romance, the whole work in four parts</title>
+            <title level="short">Ibrahim</title>
+            <printPlace>London, England</printPlace>
+            <date when="1652">1652</date>
+            <passage>"In this thought, he conducted me himself to the Market; but whereas he was known to be one of the most avaricious men in the world, it was not very easie for him to get me another Master: For although he assured them which cheapened me, that I was the most dextrous, the most serviceable, and most diligent Slave that ever he had had, yet no body would beleeve him; because out of the intention he had to rid himself speedily of me he set me at too cheap a rate."</passage>
+            <document>i.209 p.171-172</document>
+            <definition>To bargain for, ask the price of, bid for offer a price for.</definition>
+            <partOfSpeech>verb</partOfSpeech>
+            <definition>On good terms, with little effort.
+                adjective	Yes	That may be bought at small cost; bearing a relatively low price; inexpensive.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="5" type="text">
+            <author>
+                <name>
+                    <surname>More</surname>
+                    (<forename>Henry</forename>)</name>
+            </author>
+            <title level="extended">Conjectura cabbalistica or, a conjectural essay of interpreting the minde of Moses, according to a threefold cabbala: viz. literal, philosophical, mystical, or, divinely moral.</title>
+            <title level="short">The defence of the threefold cabbala.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1653">1653</date>
+            <passage>"For Pride affects nothing more then Singularity; and therefore undervaluing the plain simplicity of ordinary Christianity, such as at first sight is held forth in the Gospel of Christ, they think it no small privilege to have a Prophet of their own; especially they getting this advantage thereby, that they can very presently, as they fancy, censure and discern the truth or falshood of all that venture to speak out of the Rode of their own Sect; as if every body were bound to conne their lessons according to their Book. And it is a fine thing to become so accurately wise at so cheap a rate, and discover who is Spiritual, or who is the Carnal, or meer Moral man. This is indeed the folly of all Sects, and there is no way better that I know, to be freed from such inveiglements, then by earnestly endevouring after that which they all pretend to, and to become truly more holy and sincere then other men; for the throughly purified man is certainly delivered from all these fol|lies."</passage>
+            <document>i.134 p.247</document>
+            <definition> Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="6" type="text">
+            <author>
+                <name>
                     <surname>Culpeper</surname>
                     (<forename>Nicholas</forename>)</name>
             </author>
@@ -61,13 +99,13 @@
             <definition>Bearing a low price in proportion to its intrinsic value.</definition>
             <partOfSpeech>adjective</partOfSpeech>
         </bibl>
-        <bibl n="5" type="text">
+        <bibl n="7" type="text">
             <author>
                 <name>
                     <surname>Sondes</surname>
                     (<forename>George</forename>)</name>
             </author>
-            <title level="extended">Sir George Sondes his plaine narrative to the vvorld, of all passages upon the death of his tvvo sonnes.</title>
+            <title level="extended">Sir George Sondes his plaine narrative to the world, of all passages upon the death of his tvvo sonnes.</title>
             <title level="short">Sir George Sondes his plaine narrative</title>
             <printPlace>London, England</printPlace>
             <date when="1655">1655</date>
@@ -76,6 +114,98 @@
             <definition>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</definition>
             <partOfSpeech>adjective</partOfSpeech>
         </bibl>
+        <bibl n="8" type="text">
+            <author>
+                <name>
+                    <surname>Gookin</surname>
+                    (<forename>Vincent</forename>)</name>
+            </author>
+            <title level="extended">The great case of transplantation in Ireland discussed; or Certain considerations, wherein the many great inconveniences in the transplanting the natives of Ireland generally out of the three provinces of Leinster, Ulster, and Munster, into the province of Connaught, are shewn. / Humbly tendered to every individual member of Parliament by a well wisher to the good of the common-wealth of England.</title>
+            <title level="short">The great case of transplantation in Ireland discussed</title>
+            <printPlace>London, England</printPlace>
+            <date when="1655">1655</date>
+            <passage>"The Souldiers lately disbanded (especially the private Souldiers) have neither Stock, nor Money to buy Stock, nor (for the most part) skill in Husbandry: But by the labours of the Irish on their Lands, together with their own industry, they may maintain themselves, improve their Lands, acquire Stock, and by degrees inure themselves sutably to that course of life: But the transplantation of the Irish leaves these poor mens proportions of Land totally wast; and unless they can, like Nebuchednezzar, live on Grass, they must perish, or sell too too cheap their dear-bought recompence."</passage>
+            <document>i.10 p.16</document>
+            <definition>That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="9" type="text">
+            <author>
+                <name>
+                    <surname>Violet</surname>
+                    (<forename>Thomas</forename>)</name>
+            </author>
+            <title level="extended">Proposals humbly presented to His Highness Oliver, Lord Protector of England, &amp;c. and to the High Court of Parliament now assembled for the calling to a true and just accompt all committee-men, sequestrators, treasures, excize and custom-commissioners, collectors of monthly assessments and all other persons that have been entrusted with the publick revenue or have in their custody any thing of value appertaining to the Commonwealth </title>
+            <title level="short">Proposals humbly presented to His Highness Oliver</title>
+            <printPlace>London, England</printPlace>
+            <date when="1656">1656</date>
+            <passage>"Whereas your Honors ask us, Which is the best cheap to the Common-wealth, either the Wheel-work or the hand-Spinners work: to that wee humbly answer; That is best cheap to any man that wears it, that lasts most and longest upon a garment, and not that which is brushed and the winde blows away; and that is best cheap that yields most to the melting-pot, when it comes to bee burned, and that is our Hand-work; for the Wheel-work, the Silver is almost all blown away."</passage>
+            <document>i.114 p.93</document>
+            <definition>That is a good bargain, that can be purchased on advantageous terms; low-priced</definition>
+            <partOfSpeech>noun</partOfSpeech>
+        </bibl>
+        <bibl n="10" type="sermon">
+            <author>
+                <name>
+                    <surname>Calamy</surname>
+                    (<forename>Edmund</forename>)</name>
+            </author>
+            <title level="extended">The city remembrancer. Or, A sermon preached to the native-citizens, of London, at their solemn assembly in Pauls on Tuesday, the 23 of June, A.D. MDCLVII.</title>
+            <title level="short">The city remembrancer.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1657">1657</date>
+            <passage>"You must labour to be Citizens and Freemen of that City which hath foundations, whose builder and maker is God. For you cannot sin at so cheap a rate in London, as some may do in other places. When you sin, you sin against greater light, and love, against grea|ter means, and mercies than others do. And therefore your sins will more provoke theAlmighty, and bring downgreater, and more sudden de|solations upon you"</passage>
+            <document>i.7</document>
+            <definition>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="11" type="text">
+            <author>
+                <name>
+                    <surname>Chishull</surname>
+                    (<forename>John</forename>)</name>
+            </author>
+            <title level="extended">The danger of being almost a Christian. Shewing, [brace] 1. How far men may go without grace. 2. Why some men go so far. 3. Why they go no farther. 4. The dangerous estate of such persons.</title>
+            <title level="short">The danger of being almost a Christian.</title>
+            <printPlace>London, England</printPlace>
+            <date when="1657">1657</date>
+            <passage>"If a man passes by your shops, and inquires not for any commodity, you take little notice of him; but if he see your goods and cheapen them, and leave them, he either condemns the commodity or the seller, either it is not good, or it is too dear: So men that look not after Heaven, do but neglect it; but those who come to buy, and yet will not come up to the terms, these discredit it. When men come so neer it as the young man did, who was offered it, and yet left it when there was but one thing lacking, these do bring the greatest dislike upon the things of God, of any men alive; for these men do in effect say, it is not so much worth; they say that God offers it at too dear a rate; and what greater reproach can there be cast upon the kingdom of heaven: then to say it is too dear? The prophane sort of men do but neglect it, they never ask after it, they cheapen not; but the half Christian he sees and asks, and cheapens, but will not buy; this is a villify|ing of it."</passage>
+            <document>i.82 p.150</document>
+            <definition>To chaffer, haggle about terms with a person, or about a bargain</definition>
+            <definition>To lower in estimation, cause to be thought little of, bring into contempt, vilify.</definition>
+            <partOfSpeech>verb</partOfSpeech>
+        </bibl>
+        <bibl n="12" type="play">
+            <author>
+                <name>
+                    <surname>Shirley</surname>
+                    (<forename>James</forename>)</name>
+            </author>
+            <title level="extended">Cupid and death a private entertainment, represented with scenes &amp; musick, vocall &amp; instrumentall.</title>
+            <title level="short">Cupid and death a private entertainment</title>
+            <printPlace>London, England</printPlace>
+            <date when="1659">1659</date>
+            <passage>"If it prove / A Death to Love, / We shall find / Death will be cruell to be kind: / For when he shall to Armies fly, / Where men think blood too cheap to buy / Themselves a name, / He reconciles them, and deprives / The valiant men of more then lives, / A Victory, and Fame. / Whilst Love deceiv'd by these cold shafts, in steed, / Of curing wounded hearts, must kill indeed."</passage>
+            <document>i.11 p.19</document>
+            <definition>Accounted of small value, made little of, lightly esteemed; esp. brought into contempt through being made too familiar.</definition>
+            <partOfSpeech>adjective</partOfSpeech>
+        </bibl>
+        <bibl n="13" type="text">
+            <author>
+                <name>
+                    <surname>Milton</surname>
+                    (<forename>John</forename>)</name>
+            </author>
+            <title level="extended">The readie and easie way to establish a free commonwealth and the excellence therof compar'd with the inconveniences and dangers of readmitting kingship in this nation</title>
+            <title level="short">The readie and easie way to establish a free commonwealth</title>
+            <printPlace>London, England</printPlace>
+            <date when="1660">1660</date>
+            <passage>"As to the burden of expence, to our cost we shall soon know it; for any good to us, deserving to be termd no better then the vast and lavish price of our subjection and their debausherie; which we are now so greedily cheapning, and would so fain be paying most inconsideratly to a single person; who for any thing wherin the public really needs him, will have little els to do, but to bestow the eating and drinking of excessive dainties, to set a pompous face upon the superficial actings of State, to pageant himself up and down in progress among the perpetual bowings and cringings of an abject people, on either side deifying and adoring him for nothing don that can deserve it. For what can hee more then another man?"</passage>
+            <document>i.16 p.30-31</document>
+            <definition>to make cheap, lower the price of</definition>
+            <partOfSpeech>verb</partOfSpeech>
+        </bibl>
+        
     </body>
 </sample>
 
