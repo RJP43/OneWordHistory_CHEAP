@@ -26,10 +26,18 @@
             </g>
         </svg>
     </xsl:template>
+    <!--<xsl:template match="bibl">
+        <xsl:for-each-group select="$samplesColl//date" group-by="$samplesColl//date/@when">
+            <xsl:variable name="xPos" select="position()*$interval"/>
+            <xsl:for-each select="//date">
+                <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="//distinct-values(@when)"/></text>
+            </xsl:for-each>
+        </xsl:for-each-group>
+    </xsl:template>-->    
     <xsl:template match="bibl">
         <xsl:variable name="xPos" select="position()*$interval"/>
         <xsl:for-each select="//date">
-        <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="//@when"/></text>
+        <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="./distinct-values(@when)"/></text>
         </xsl:for-each>
 
     </xsl:template>
