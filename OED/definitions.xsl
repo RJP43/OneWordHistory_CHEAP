@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml"
@@ -59,9 +57,9 @@
     <xsl:template match="ref[@type='cheap']">
         <xsl:for-each select=".//string">
         <tr>
-            <td><xsl:apply-templates select="./ancestor::entry/@type"/><br/>
+            <td><xsl:apply-templates select="./ancestor::entry/@type"/>
                 <xsl:choose>
-                    <xsl:when test="./ancestor::entry[@subtype]"><xsl:text>(</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
+                    <xsl:when test="./ancestor::entry[@subtype]"><xsl:text> (</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
                     <xsl:otherwise></xsl:otherwise>
                 </xsl:choose>
             </td>
@@ -77,9 +75,9 @@
     <xsl:template match="ref[@type='cheapen']">
         <xsl:for-each select=".//string">
             <tr>
-                <td><xsl:apply-templates select="./ancestor::entry/@type"/><br/>
+                <td><xsl:apply-templates select="./ancestor::entry/@type"/>
                     <xsl:choose>
-                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text>(</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
+                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text> (</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
                         <xsl:otherwise></xsl:otherwise>
                     </xsl:choose>
                 </td>
@@ -95,9 +93,9 @@
     <xsl:template match="ref[@type='cheapness']">
         <xsl:for-each select=".//string">
             <tr>
-                <td><xsl:apply-templates select="./ancestor::entry/@type"/><br/>
+                <td><xsl:apply-templates select="./ancestor::entry/@type"/>
                     <xsl:choose>
-                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text>(</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
+                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text> (</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
                         <xsl:otherwise></xsl:otherwise>
                     </xsl:choose>
                 </td>
@@ -113,9 +111,9 @@
     <xsl:template match="ref[@type='cheaply']">
         <xsl:for-each select=".//string">
             <tr>
-                <td><xsl:apply-templates select="./ancestor::entry/@type"/><br/>
+                <td><xsl:apply-templates select="./ancestor::entry/@type"/>
                     <xsl:choose>
-                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text>(</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
+                        <xsl:when test="./ancestor::entry[@subtype]"><xsl:text> (</xsl:text><xsl:apply-templates select="./ancestor::entry/@subtype"/><xsl:text>)</xsl:text></xsl:when>
                         <xsl:otherwise></xsl:otherwise>
                     </xsl:choose>
                 </td>
