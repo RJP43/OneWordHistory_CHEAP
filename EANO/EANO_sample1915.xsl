@@ -37,19 +37,19 @@
             <tr>
                 <td>
                     <xsl:choose>
-                        <xsl:when test="//surname"><xsl:apply-templates select="//surname"/><xsl:text>, </xsl:text><xsl:apply-templates select="./forename"/></xsl:when>
+                        <xsl:when test=".//surname"><xsl:apply-templates select=".//surname"/><xsl:text>, </xsl:text><xsl:apply-templates select="./forename"/></xsl:when>
                         <xsl:otherwise><xsl:apply-templates select="./name"/></xsl:otherwise>
                     </xsl:choose>
                 </td>
                 <td>
-                    <xsl:apply-templates select="//title[@level='article']"/><br/>
-                    <xsl:apply-templates select="//title[@level='paper']"/>
+                    <xsl:text>"</xsl:text><xsl:apply-templates select=".//title[@level='article']"/><xsl:text>"</xsl:text><br/>
+                    <i><xsl:apply-templates select=".//title[@level='paper']"/></i>
                 </td>
-                <td><xsl:apply-templates select="//printPlace"/></td>
-                <td><xsl:apply-templates select="//passage"/></td>
-                <td><a href="{@target}"><xsl:apply-templates select="//document"/></a></td>
-                <td><xsl:apply-templates select="//passage"/></td>
-                <td><xsl:apply-templates select="//definition"/><xsl:text> (</xsl:text><td><xsl:apply-templates select="//definition/@ana"/><xsl:text>)</xsl:text></td></td>
+                <td><xsl:apply-templates select=".//printPlace"/></td>
+                <td><xsl:apply-templates select=".//passage"/></td>
+                <td><a href="{.//ref/@target}"><xsl:apply-templates select=".//document"/></a></td>
+                <td><xsl:apply-templates select=".//passage"/></td>
+                <td><xsl:apply-templates select=".//definition"/><xsl:text> (</xsl:text><xsl:apply-templates select=".//definition/@ana"/><xsl:text>)</xsl:text></td>
             </tr>
         </xsl:for-each>
     </xsl:template>
