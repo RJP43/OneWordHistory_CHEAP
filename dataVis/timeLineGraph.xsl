@@ -7,14 +7,14 @@
     
     <xsl:variable name="samplesColl" select="collection('samples')"/>
     <xsl:variable name="interval" select="60"/>
-    <xsl:variable name="xSpacer" select="60"/>
+    <xsl:variable name="xSpacer" select="5"/>
     
     
     <xsl:template match="/">
         <svg width="150%" height="125%">
-            <g transform="translate(-1300, 600)">
+            <g transform="translate(-7600, 600)">
                 <text x="1875" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
-                <line x1="1500" x2="1500" y1="0" y2="-500" stroke="black" stroke-width="1"/>
+                <line x1="7675" x2="7675" y1="0" y2="-500" stroke="black" stroke-width="1"/>
                 
                 <!--<text x="1500" y="0" text-anchor="middle">0</text>
                 <text x="1500" y="-125" text-anchor="middle">25%</text>
@@ -47,14 +47,14 @@
                 <text x="1380" y="30" text-anchor="middle">1820</text>
                 <text x="1440" y="30" text-anchor="middle">1915</text>-->
                 
-                <line x1="1500" x2="1915" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                <line x1="7675" x2="{1915*$xSpacer}" y1="0" y2="0" stroke="black" stroke-width="1"/>
                 
                 <xsl:variable name="minDate" select="xs:integer(min($samplesColl//date/@when))"/>
                 <xsl:variable name="maxDate" select="xs:integer(max($samplesColl//date/@when))"/>
                 <xsl:for-each select="$minDate to $maxDate">
                     <xsl:variable name="year" select="string(.)"/>
                     <xsl:if test="$year[ends-with($year, '0')] or $year[ends-with($year, '5')]">
-                        <line x1="{$year}" x2="{$year}" y1="0" y2="10" stroke="black" stroke-width="1"/>
+                        <line x1="{xs:integer($year)*$xSpacer}" x2="{xs:integer($year)*$xSpacer}" y1="0" y2="10" stroke="black" stroke-width="1"/>
                     </xsl:if>
                 </xsl:for-each>
                 
