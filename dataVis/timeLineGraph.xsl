@@ -7,17 +7,20 @@
     
     <xsl:variable name="samplesColl" select="collection('samples')"/>
     <xsl:variable name="interval" select="60"/>
+    <xsl:variable name="xSpacer" select="60"/>
+    
     
     <xsl:template match="/">
         <svg width="150%" height="125%">
-            <g transform="translate(100, 600)">
-                <text x="375" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
-                <line x1="20" x2="20" y1="0" y2="-500" stroke="black" stroke-width="1"/>
-                <text x="0" y="0" text-anchor="middle">0</text>
-                <text x="0" y="-125" text-anchor="middle">25%</text>
-                <text x="0" y="-250" text-anchor="middle">50%</text>
-                <text x="0" y="-375" text-anchor="middle">75%</text>
-                <text x="0" y="-500" text-anchor="middle">100%</text>
+            <g transform="translate(-1300, 600)">
+                <text x="1875" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
+                <line x1="1500" x2="1500" y1="0" y2="-500" stroke="black" stroke-width="1"/>
+                
+                <!--<text x="1500" y="0" text-anchor="middle">0</text>
+                <text x="1500" y="-125" text-anchor="middle">25%</text>
+                <text x="1500" y="-250" text-anchor="middle">50%</text>
+                <text x="1500" y="-375" text-anchor="middle">75%</text>
+                <text x="1500" y="-500" text-anchor="middle">100%</text>-->
                 
                 <!--<text x="60" y="30" text-anchor="middle">1550</text>
                 <text x="120" y="30" text-anchor="middle">1554</text>
@@ -44,9 +47,19 @@
                 <text x="1380" y="30" text-anchor="middle">1820</text>
                 <text x="1440" y="30" text-anchor="middle">1915</text>-->
                 
-                <line x1="20" x2="1500" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                <line x1="1500" x2="1915" y1="0" y2="0" stroke="black" stroke-width="1"/>
                 
-                <xsl:apply-templates select="$samplesColl//bibl"/>
+                <xsl:variable name="minDate" select="xs:integer(min($samplesColl//date/@when))"/>
+                <xsl:variable name="maxDate" select="xs:integer(max($samplesColl//date/@when))"/>
+                <xsl:for-each select="$minDate to $maxDate">
+                    <xsl:variable name="year" select="string(.)"/>
+                    <xsl:if test="$year[ends-with($year, '0')] or $year[ends-with($year, '5')]">
+                        <line x1="{$year}" x2="{$year}" y1="0" y2="10" stroke="black" stroke-width="1"/>
+                    </xsl:if>
+                </xsl:for-each>
+                
+                
+                <!--<xsl:apply-templates select="$samplesColl//bibl"/>-->
             </g>
         </svg>
     </xsl:template>
@@ -58,12 +71,12 @@
             </xsl:for-each>
         </xsl:for-each-group>
     </xsl:template>-->    
-    <xsl:template match="bibl">
+    <!--<xsl:template match="bibl">
         <xsl:variable name="xPos" select="position()*$interval"/>
-        <!--<xsl:for-each select="//date">-->
+        <xsl:for-each select="//date">
         <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="./distinct-values(//date/@when)"/></text>
-        <!--</xsl:for-each>-->
+        </xsl:for-each>-->
 
-    </xsl:template>
+    <!--</xsl:template>-->
     
 </xsl:stylesheet>
