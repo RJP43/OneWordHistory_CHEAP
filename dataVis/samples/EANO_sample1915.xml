@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+    <head><title>Early American Newspapers Online Sample</title> from <date>1915</date></head>
+    <body>
+        <bibl n="1" type="advertisement">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">A.H. Guion &amp; Co. Advertisement</title>
+            <title level="paper">Charlotte Daily Observer</title>
+            <printPlace>Charlotte, North Carolina</printPlace>
+            <date when="1915">1915</date>
+            <passage>"OUR LONG SUIT in sanitary plumbing is expert workmanship. Nothing taken for granted: skill born of long experience and the will to give every client the honest worth of his money. Never took a "cheap" job in our history - rather do it for nothing. But we do return value for money - charge you nothing for an estimate."</passage>
+            <document>i.2 p.4</document>
+            <definition ana="adjective">To hold cheap: to hold of small account, think little of, despise.</definition>
+            <ref target="/EANO_sampleImages1915/bibl1"/>
+        </bibl>
+        <bibl n="2" type="advertisement">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">The New York Bargain Store Advertisement</title>
+            <title level="paper">The Columbus Ledger</title>
+            <printPlace>Columbus, Georgia</printPlace>
+            <date when="1915">1915</date>
+            <passage>"We have now on hand about 100 Dresses, the very latest style Dresses that have been sold no less than $22.50, $25.00 and $27.00, and being after Xmas, we are sacrificing these Dresses and we sell them so cheap that even' will not pay for the workmanship of these Dresses."</passage>
+            <document>i.3 p.7</document>
+            <definition ana="adjective">Bearing a low price in proportion to its intrinsic value; of good value in proportion to its price; well worth the price.</definition>
+            <ref target="/EANO_sampleImages1915/bibl2"/>
+        </bibl>
+        <bibl n="3" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">No Headline</title>
+            <title level="paper">Dallas Morning News</title>
+            <printPlace>Dallas, Texas</printPlace>
+            <date when="1915">1915</date>
+            <passage>"There is somewhat of absolution in a confession of failure. Infinitely worse than he who defaults on his good resolutions is he who makes none. In him at least it is not aspiration, but strength that lacks, and the light ceases to burn only for him who no longer aspires and hopes. Be not stayed by the mockeries of the cynical; they are but the cheap jests of the ignorant, who, in making them likewise proclaim their moral bankruptcy."</passage>
+            <document>i.1 p.8</document>
+            <definition ana="adjective">Low, poor, disparaging.</definition>
+            <ref target="/EANO_sampleImages1915/bibl3"/>
+        </bibl>
+        <bibl n="4" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Cheap Meat and Dear Grain</title>
+            <title level="paper">The Grand Forks Daily Herald</title>
+            <printPlace>Grand Forks, North Dakota</printPlace>
+            <date when="1915">1915</date>
+            <passage>"Although it sounds somewhat paradorical there is little reason to doubt that meat is cheaper in Germany than it was before the war. There is a reason for this that is by no means so reassuring as the statement is evidently intended to be. Reports of our own consuls in Germany indicate a steady advance in other food commodities. The newspapers, inspired by the authorities, are imploring people to cook potatoes in their skins and to mix potato meal with flour. Tea and coffee have almost doubled in price..."</passage>
+            <document>i.1 p.4</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/EANO_sampleImages1915/bibl4"/>
+        </bibl>
+        <bibl n="5" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Small Grains Doing Well</title>
+            <title level="paper">The Lexington Herald</title>
+            <printPlace>Lexington, Kentucky</printPlace>
+            <date when="1915">1915</date>
+            <passage>"Hemp in its history of fifty years has had some "rough sledding." Prior to that period the navy cables were made of hemp. The wire cables knocked that out. Native hemp bagging for baling cotton got its quietus from bagging made from cheap and foreign fibers, steal, manilla and jute and baling rope for cotton binding was superseded by cheap hoop iron."</passage>
+            <document>i.1 p.2</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/EANO_sampleImages1915/bibl5"/>
+        </bibl>
+        <bibl n="6" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Sea Water; Public</title>
+            <title level="paper">The Miami Herald</title>
+            <printPlace>Miami, Florida</printPlace>
+            <date when="1915">1915</date>
+            <passage>"Sea water electrically treated has been found to be of great value as a disinfecting means, and is now used regularly in a number of English cities for cleaning swimming pools, schoolrooms, hospitals and similar places. It is very effective and quite cheap. Where the salt water is not obtainable an artifical sea water is made at a very slight addtion to the cost."</passage>
+            <document>i.1 p.11</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/EANO_sampleImages1915/bibl6"/>
+        </bibl>
+        <bibl n="7" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Everybody is Pleased Delighted with Prohibition in Russia</title>
+            <title level="paper">The State</title>
+            <printPlace>Columbia, South Carolina</printPlace>
+            <date when="1915">1915</date>
+            <passage>"As a substitute it is proposed to establish a government monopoly of sugar, in order that the poor may have a cheap supply. Heretofore, it has been out of their reach."</passage>
+            <document>i.1 p.1</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/EANO_sampleImages1915/bibl7"/>
+        </bibl>
+        <bibl n="8" type="article">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Secretary Redfield Once More on the Job</title>
+            <title level="paper">The Philadelphia Inquirer</title>
+            <printPlace>Philadelphia, Pennsylvania</printPlace>
+            <date when="1915">1915</date>
+            <passage>"Present conditions are due to causes which can be readily traced. They are due to enactment of a tariff law which exposes the American manufacturer to the competition of European rivals, who have the advantage of cheap labor. They are due to the hostility of the Wilson administration to business enterprise."</passage>
+            <document>i.1 p.8</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/EANO_sampleImages1915/bibl8"/>
+        </bibl>
+        <bibl n="9" type="article">
+            <author>
+                <name>
+                    <surname>O'Connor</surname>
+                    (<forename>Timothy J.</forename>)</name>
+            </author>
+            <title level="article">Anti-British Irish at a Guarded Meeting John Redmond Opposes Pro-German Attitude and is Criticized</title>
+            <title level="paper">San Jose Mercury Herald</title>
+            <printPlace>San Jose, California</printPlace>
+            <date when="1915">1915</date>
+            <passage>"They are the enemies of Ireland as well as of the British Empire. Some of them may be seeking a cheap martyrdom. I only say that things are being done in Ireland today which would not be tolerated in England or in any other part of the British empire."</passage>
+            <document>i.1 p.11</document>
+            <definition ana="adjective">Costing little labour, trouble, effort, etc.; easily obtained.</definition>
+            <ref target="/EANO_sampleImages1915/bibl9"/>
+        </bibl>
+        <bibl n="10" type="advetisement">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="article">Sale of Exceptional Embroideries: The Kind of Embroideries You Will Need At Prices You Can Well Afford</title>
+            <title level="paper">The Idaho Daily Statesman</title>
+            <printPlace>Boise, Idaho</printPlace>
+            <date when="1915">1915</date>
+            <passage>"Embroidery Edgings for 5c - oceans of them in materials of Swiss, Nainsook and Cambric. These edgings of very pretty designs with exceptionally well finished edges and by no means the kind youwould expect to find at this price. The materials are good and so is the workmanship. The only thing cheap about these edges is the price, which is an unusual one at, the yard, 5c."</passage>
+            <document>i.1 p.12</document>
+            <definition ana="broad">All Inclusive phrasing giving reference to a definition of cheap other than affordibility in price or  indication of labor/ effort applied.</definition>
+            <ref target="/EANO_sampleImages1915/bibl10"/>
+        </bibl>
+    </body>
+</sample>

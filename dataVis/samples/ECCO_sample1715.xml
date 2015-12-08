@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sample>
+    <head><title>Eighteenth Century Collections Online Sample</title> from <date>1715</date></head>
+    <body>
+        <bibl n="1" type="text">
+            <author>
+                <name>A.S.</name>
+            </author>
+            <title level="extended">The gentleman's compleat jockey: with the perfect horse-man and experienc'd farrier. ... To which is added, the art of vermine-killing.</title>
+            <title level="short">The gentleman's compleat jockey</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+                <passage>"This Plaister for the cheapness and meanness, will hardly gain Credit with those that are curious, but I dare assure you, that there is not a more excellent or sovereign Plaister belonging to a Horse, ..."</passage>
+                <document>i.160 p.151</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl1"/>
+        </bibl>
+        <bibl n="2" type="text">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="extended">An address to the people of England: shewing the unworthiness of their behaviour to King George; the folly of the pretended reasons for the present rebellion; and the strict obligations we are all under for our own sakes, as well as the King's, to assist and support him.</title>
+            <title level="short">An address to the people of England</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"And yet do they manage their Delusions with such dexterous Skill and Application, that the Deluded People are pleased with their Inchantments, and have no Inclination to be undeceived; but are ready to rush into the Battle with Rebels and Murders; to turn our pleasant Land into a Field of Blood, and to lay their Country Waste with Fire, and Sword, and Plunder, rather than be made sensible that they may be Safe and Happy at a cheaper rate."</passage>
+            <document>i.2 p.3</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl2"/>
+        </bibl>
+        <bibl n="3" type="text">
+            <author>
+                <name>Anon.</name>
+            </author>
+            <title level="extended">An answer to a scurrilous pamphlet, called Donatus redivivus: Or a Reprimand to a Modern Church-Schismatick, Lately Written by A Dissenting Teacher; Occasion'd by the Conversion and Baptism of Two Young Gentlewomen.</title>
+            <title level="short">An answer to a scurrilous pamphlet</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"Had the partial Compiler condescended to have read the many learned Answers, which in the space of two or three Years last past, have been publish'd, to every particular Objection in this boasted Collection; surely he would never have had the Assurance to repeat them with so much confidence, without taking the least Notice of those Answers, especially since he might have been furnished with them at a cheap rate, and have had one as well as the other for the Trouble of Transcribing: I can guess at no other reason he could have for concealing them..."</passage>
+            <document>i.4 p.5</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl3"/>
+        </bibl>
+        <bibl n="4" type="text">
+            <author>
+                <name>
+                    <surname>Allestree</surname>
+                    (<forename>Richard</forename>)</name>
+            </author>
+            <title level="extended">The whole duty of man, laid down In a plain and familiar way, for the use of all, but especially the meanest reader. Divided into XVII chapters; one whereof being read every Lord's-Day, the whole may be read over thrice in the year. Necessary for all families. With private devotions for several occasions.</title>
+            <title level="short">The whole duty of man</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"Thirdly, This is a Sin to which there is no temptation, there is nothing either of pleasure or profit got by it; most other Sins offer us somewhat either of the one or the other, but this is utterly empty of both. So that in this Sin the Devil does not play the Merchant for our Souls, as in others he does; he doth not so much as cheapen them, but we give them freely into his hands, without any thing in exchange."</passage>
+            <document>i.129 p.106</document>
+            <definition ana="verb">To chaffer, haggle about terms with a person, or about a bargain</definition>
+            <ref target="/ECCO_sampleImages1715/bibl4"/>
+        </bibl>
+        <bibl n="5" type="text">
+            <author>
+                <name>
+                    <surname>Aulnoy</surname>
+                    (<forename>Marie-Catherine</forename>)</name>
+            </author>
+            <title level="extended">The diverting works of the Countess d'Anois, author of The ladies travels to Spain. Containing I. The memoirs of her own life. II. All her Spanish novels and histories. III. Her letters. IV. Tales of the fairies in three parts compleat. The second edition illustrated with many cutts. Newly done into English.</title>
+            <title level="short">The diverting works of the Countess d'Anois</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"The next day he came to see me, and having made me a thousand Excuses, desir'd me to appear again at Court. And as for the Marquis of Fleuri, he requested me in respect of him, not to make it amiss, that he continu'd in his Confinement for some few days, for returning without his Order. But the Marquis of Fleuri, who did not believe he should come off at so cheap a rate, was not to be found when the sought for him, neither did any body know what was become of him."</passage>
+            <document>i.107 p.98</document>
+            <definition ana="adjective">To hold of small account, think little of, despise.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl5"/>
+        </bibl>
+        <bibl n="6" type="sermon">
+            <author>
+                <name>
+                    <surname>Bentley</surname>
+                    (<forename>Richard</forename>)</name>
+            </author>
+            <title level="extended">A sermon upon popery: preach'd before the University of Cambridge, November Vth. MDCCXV. By Richard Bentley, D. D. Master of Trinity College, and Chaplain to His Majesty.</title>
+            <title level="short">A sermon upon popery</title>
+            <printPlace>Cambridge, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"Drink Ye All of this; not for the dearness or scarcity of Wine, which is cheap and common in those Climates; not for the then pretended Reason, that the Mustaches or Whiskers in the mode of that Age us'd to dip into the Holy Cup"</passage>
+            <document>i.21 p.22</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl6"/>
+        </bibl>
+        <bibl n="7" type="text">
+            <author>
+                <name>
+                    <surname>Burgess</surname>
+                    (<forename>Daniel</forename>)</name>
+            </author>
+            <title level="extended">A letter to the Bishop of Salisbury, occasion'd by his son's letter to the Earl of Hallifax. Containing a fair state of the case of the late ministry, and a full answer to all Mr. Burnet's arguments for an impeachment. By a good friend to the late Ministers.</title>
+            <title level="short">A letter to the Bishop of Salisbury</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"Is it likely that any Nation in the four Quarters of the World would entertain such a Colony? No, we have suffer'd 'em to nest in Great Britain, and must ev'n keep them for our Punishment. The Plagues of Egypt would be a cheap way of getting rid of them, to change their Ministers for a Murrain, and their Priests for Locusts; but as the Case stands, there's no helping it."</passage>
+            <document>i.24 p.23</document>
+            <definition ana="adjective">Costing little labor, trouble, effort, etc.; easily obtained.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl7"/>
+        </bibl>
+        <bibl n="8" type="text">
+            <author>
+                <name>
+                    <surname>Burgess</surname>
+                    (<forename>Daniel</forename>)</name>
+            </author>
+            <title level="extended">The rise and growth of fanaticism: or, a view of the principles, plots, and pernicious practices of the dissenters, for upwards of 150 years. Also, An Extract of the Life of that pretended Reformer John Knox. And An Account of the Writings and Life of Buchanan. Together With King James the First's Character of the Presbyterians.</title>
+            <title level="short">The rise and growth of fanaticism</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"But can any one tell what might be the Design of the Presbyterians in North-Britain, soon after the late Revolution, to re-print Buchanan's and Milton's condemn'd Treatises, to cheapen the Impression, recommend the reading of them from their Chairs and Pulpits, and to put them into the Hands of School-Boys, and Students in their Colleges?"</passage>
+            <document>i.18 p.19</document>
+            <definition ana="verb">To make cheap, lower the price of.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl8"/>
+        </bibl>
+        <bibl n="9" type="text">
+            <author>
+                <name>
+                    <surname>Davenant</surname>
+                    (<forename>Charles</forename>)</name>
+            </author>
+            <title level="extended">An account of the trade between Great-Britain, France, Holland, Spain, Portugal, Italy, Africa, Newfoundland, &amp;c. With the importations and exportations of all commodities, particularly of the woollen manufactures. Deliver'd in two reports made to the commissioners for publick accounts. By Charles Davenant, L.L. D. late inspector general of the Exports and Imports.</title>
+            <title level="short">An account of the trade</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"if you prohibit French Wines, and yet will have them, it must come from a third Hand; to that third Hand you are forc'd to sell your native Product at a cheap Rate, and to pay them dear for what they import foreign..."</passage>
+            <document>i.49 p.49</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl9"/>
+        </bibl>
+        <bibl n="10" type="text">
+            <author>
+                <name>
+                    <surname>Symson</surname>
+                    (<forename>William</forename>)</name>
+            </author>
+            <title level="extended">A new voyage to the East Indies: viz. I. To Suratte, and the coast of Arabia, containing a compleat Description of the Maldivy-Islands, their Product, Trade, &amp;c. II. The Religion, Manners, and Customs of the Inhabitants, never before related by any English Author. III. Many curious Observations concerning Arabia and India, not to be found in any other Books of this Nature; with Directions for Travellers. By Capt. William Symson. To which is added, a particular account of the French factories in those parts, and of the general Trade throughout all India. With many excellent remarks by the Sieur Luillier. Adorn'd with cuts</title>
+            <title level="short">A new voyage to the East Indies</title>
+            <printPlace>London, England</printPlace>
+            <date when="1715">1715</date>
+            <passage>"Instead of Coin, they use small Pieces of Mat made of Grafs, very thin, and about 16 Inches Square; for one of which are small Cakes of Bread, when Corn is dear, and five when it is cheap. They use those Pieces of Mat to adorn their Bodies, and cover their privy Parts."</passage>
+            <document>i.16 p.8</document>
+            <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive. Opposed to dear.</definition>
+            <ref target="/ECCO_sampleImages1715/bibl10"/>
+        </bibl>
+    </body>
+</sample>
+
