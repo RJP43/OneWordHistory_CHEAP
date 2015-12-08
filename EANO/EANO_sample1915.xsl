@@ -1,9 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml"
     version="3.0">
+    
     <xsl:output method="html" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     <xsl:template match="/">
@@ -13,17 +16,42 @@
             </head>
             <body>
                 <h1>Early American Newspapers Online Sample from 1915</h1>
-                <tr>
-                    <th>Author</th>
-                    <th>Title</th>
-                    <th>Place</th>
-                    <th>Passage</th>
-                    <th>Image/Page Number</th>
-                    <th>Definition</th>
-                </tr>
+                <table>
+                    <tr>
+                        <th>Author</th>
+                        <th>Title</th>
+                        <th>Pub. Place</th>
+                        <th>Passage</th>
+                        <th>Image/Page Number</th>
+                        <th>Definition</th>
+                    </tr>
+                
+                <xsl:apply-templates select="//bibl"/>
                
+                </table>
             </body>
         </html>
+    </xsl:template>
+    <xsl:template match="bibl">
+        <xsl:for-each select=".">
+            <tr>
+                <td>
+                    <xsl:choose>
+                        <xsl:when test="//surname"><xsl:apply-templates select="//surname"/><xsl:text>, </xsl:text><xsl:apply-templates select="./forename"/></xsl:when>
+                        <xsl:otherwise><xsl:apply-templates select="./name"/></xsl:otherwise>
+                    </xsl:choose>
+                </td>
+                <td>
+                    <xsl:apply-templates select="//title[@level='article']"/><br/>
+                    <xsl:apply-templates select="//title[@level='paper']"/>
+                </td>
+                <td><xsl:apply-templates select="//printPlace"/></td>
+                <td><xsl:apply-templates select="//passage"/></td>
+                <td><a href="{@target}"><xsl:apply-templates select="//document"/></a></td>
+                <td><xsl:apply-templates select="//passage"/></td>
+                <td><xsl:apply-templates select="//definition"/><xsl:text> (</xsl:text><td><xsl:apply-templates select="//definition/@ana"/><xsl:text>)</xsl:text></td></td>
+            </tr>
+        </xsl:for-each>
     </xsl:template>
     
 </xsl:stylesheet>

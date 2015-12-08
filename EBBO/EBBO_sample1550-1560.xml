@@ -14,8 +14,8 @@
             <date when="1550">1550</date>
             <passage>"And therefore nowe the most part of men lackyng teachers &amp; rulers, do without griefe of conscience, or feare of punishment, abuse euery thynge vnto the ruine and destruccion, whyche God hath ordayned vnto the vphol|dyng &amp; increase of a christia commune welth. As for example, now bying and sellyng is not vsed as a prouision for good cheape and great plenty, but made the most occasyon of dearth and scarsitie. Wealth and wyt be not ryghtly vsed vnto a common confortable pro fyt, but shamefully abused vnto a wycked priuate gayne."</passage>
             <document>i.7</document>
-            <definition>Abundance of commodities; opposed to dearth.</definition>
-            <partOfSpeech>noun</partOfSpeech>
+            <definition ana="noun">Abundance of commodities; opposed to dearth.</definition>
+            <ref target="/sampleImages1550-1560/bibl1_ebbo"/>
         </bibl>
         <bibl n="2" type="book">
             <author>
@@ -30,7 +30,7 @@
             <passage>"Thondre in August, sygnyfyeth the same yere sorowe welyng of many, and o moste hotethynges, and also many shalbe syeke. Thondre in Septembre, sygnyfyeth that same yere great wynde copye of corne, that is to saye, plenteous, and occasyon of folke, that is to say, moch fallynge. Thondre in Octobre sygnyfyth y same yeare, great wynde and scantnes of Cornes, and fruites of trees, Thondre in Nouembre sygnyfyeth that same yere to be fruytfull, and mery, and chepe corne. Thondre in Decembre sygnyfyeth that same yeare chepe corne, &amp; of wheere, peas and accorde amonge the people."</passage>
             <document>i.16</document>
             <definition ana="noun">Plenty, abundance</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl2_ebbo"/>
         </bibl>
         <bibl n="3" type="text">
             <author>
@@ -45,7 +45,7 @@
             <passage>"The abbeyes tilled much corne, for the sustentacion of many men, women, and children, but now shepe &amp; beastes are fedde there, which do in a maner eate vp men, women, and chyldren, &amp; do cause al thinges to be extreamely deare. The abbaies raised no rentes, whereby the tenantes lyued welthily, &amp; selled euery thyng good chepe, where now their landes are so improued, and the rentes of them so muche augmented, and encreased, that the tenauntes liue but poorely, and are constrayned to sell euery thyng thre times more dearely, than they wer accustomed afore to dooe or els they can not pay their rentes."</passage>
             <document>i.32</document>
             <definition ana="noun">Bargain, purchase; qualified from the buyer's point of view as good, great</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl3_ebbo"/>
         </bibl>
         <bibl n="4" type="text">
             <author>
@@ -60,7 +60,7 @@
             <passage>"On Saterday, a mean Wynter: Somer very hote: a late Heruest, good cheape garden herbes: muche burninge: plentye of Hempe, Flaxe, and Honye: olde folke shall dye in moste places: Feuers and Tertians shall greue many people: greate mutteringe of warres: murders shalbe sodenly committed in many places, for lyght matters."</passage>
             <document>i.12</document>
             <definition ana="noun">Plenty, abundance</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl4_ebbo"/>
         </bibl>
         <bibl n="5" type="text">
             <author>
@@ -78,7 +78,7 @@
                 Thou measurst drynke by heape."</passage>
             <document>i.15</document>
             <definition ana="noun">Plenty, abundance</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl5_ebbo"/>
         </bibl>
         <bibl n="6" type="text">
             <author>
@@ -93,7 +93,7 @@
             <passage>"They folowed subuersions of abbaies, being another similitude of godlines perswaded by the sayd protestantes, by whose pytifull spoyle procedeth the decaye of our common wealth. For it was thought before their subuersion that all thynges woulde be better cheape, but they became as good cheape as thinges did in Rome, after the makyng of the lawe, called Agraria."</passage>
             <document>i.111 p.110</document>
             <definition ana="noun">That is a good bargain, that can be purchased on advantageous terms; low-priced</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl6_ebbo"/>
         </bibl>
         <bibl n="7" type="treatise">
             <author>
@@ -108,7 +108,7 @@
             <passage>"they seke not abstinence from synne, and the wealthe of the people, but their owne priuate profit. For if they had their eie to Goddes glorie and the benefite of the people, and the vice to be taken cleane awaie: they wold not croppe of the braunches of the tree, and let the roote growe, but they wolde roote vp the roote that it should no more growe. And son of this sort do it to this ende, to make thinges better cheape. For (thinke they) if ther were but littell money, than must thinges be solde better cheape. As though it laye in them to make pleyntie and scarcitie, and as though thone were not the bounteous benefite of God sentto them that feare and loue him: and the other his plage iustly powred on them that hate him."</passage>
             <document>i.41</document>
             <definition ana="noun">That is a good bargain, that can be purchased on advantageous terms; low-priced</definition>
-           
+            <ref target="/sampleImages1550-1560/bibl7_ebbo"/>
         </bibl>
         <bibl n="8" type="sermon">
             <author>
@@ -123,7 +123,7 @@
             <passage>"Chastitie in virgin, wife, and wydowe consisteth and standeth not onely in the sounde integritie, and wholenes of their flesshe, but also in a certayne shamefastnes and honesty of their apparell, for lightly there is no more precious and costlye dressynge then is amonge them whose honestye is lyght cheape. Therfore in no case let your raymente deface and sclaunder the sinceritie and integritie of your bodies, but that like as you kepe your bodyes chaste and cleane after your callynge, whether it be virginitye, mariage, or wydowehode."</passage>
             <document>i.220</document>
             <definition ana="noun">That costs little (trouble, etc.), easily obtained; plentiful, abundant</definition>
-            
+            <ref target="/sampleImages1550-1560/bibl8_ebbo"/>
         </bibl>
         <bibl n="9" type="poem">
             <author>
@@ -138,7 +138,7 @@
             <passage>"Repent you caytifes your raysing of rent / Your fines, your incoms, yet never at a stent. / Your turning of tillage so much into pasture, / That townes and towneships are ruyned past cure: / Your wasting of woods, your ingrossing chepe wares, / To make dearth of plenty, to encreace others cares. / For this was the cause of the Kings death in dede, / And wil be the kingdomes without better hede."</passage>
             <document>i.10</document>
             <definition ana="adjective">That may be bought at small cost; bearing a relatively low price; inexpensive.</definition>
-           
+            <ref target="/sampleImages1550-1560/bibl9_ebbo"/>
         </bibl>
     </body>
 </sample>
