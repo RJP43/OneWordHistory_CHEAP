@@ -89,7 +89,9 @@ body{
     border:2px dotted #8BB174;
     text-align:center;
 }
-
+#other {
+    text-align:center;
+}
 table, th, td {
    border: 1px solid black;
 }
