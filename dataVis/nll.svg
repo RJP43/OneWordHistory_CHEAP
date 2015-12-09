@@ -1,85 +1,536 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="150%" height="125%">
-   <g transform="translate(100, 600)">
-      <text x="375" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
-      <line x1="20"
-            x2="20"
+   <g transform="translate(-7600, 600)">
+      <text x="1875" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
+      <line x1="7675"
+            x2="7675"
             y1="0"
             y2="-500"
             stroke="black"
             stroke-width="1"/>
-      <text x="0" y="0" text-anchor="middle">0</text>
-      <text x="0" y="-125" text-anchor="middle">25%</text>
-      <text x="0" y="-250" text-anchor="middle">50%</text>
-      <text x="0" y="-375" text-anchor="middle">75%</text>
-      <text x="0" y="-500" text-anchor="middle">100%</text>
-      <line x1="20"
-            x2="1500"
+      <line x1="7675"
+            x2="9575"
             y1="0"
             y2="0"
             stroke="black"
             stroke-width="1"/>
-      <text x="60" y="30" text-anchor="middle">1915</text>
-      <text x="120" y="30" text-anchor="middle">1915</text>
-      <text x="180" y="30" text-anchor="middle">1915</text>
-      <text x="240" y="30" text-anchor="middle">1915</text>
-      <text x="300" y="30" text-anchor="middle">1915</text>
-      <text x="360" y="30" text-anchor="middle">1915</text>
-      <text x="420" y="30" text-anchor="middle">1915</text>
-      <text x="480" y="30" text-anchor="middle">1915</text>
-      <text x="540" y="30" text-anchor="middle">1915</text>
-      <text x="600" y="30" text-anchor="middle">1915</text>
-      <text x="660" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="720" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="780" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="840" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="900" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="960" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="1020" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="1080" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="1140" y="30" text-anchor="middle">1550 1554 1555 1556 1557 1560</text>
-      <text x="1200" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1260" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1320" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1380" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1440" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1500" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1560" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1620" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1680" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1740" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1800" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1860" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1920" y="30" text-anchor="middle">1650 1652 1653 1655 1656 1657 1659 1660</text>
-      <text x="1980" y="30" text-anchor="middle">1715</text>
-      <text x="2040" y="30" text-anchor="middle">1715</text>
-      <text x="2100" y="30" text-anchor="middle">1715</text>
-      <text x="2160" y="30" text-anchor="middle">1715</text>
-      <text x="2220" y="30" text-anchor="middle">1715</text>
-      <text x="2280" y="30" text-anchor="middle">1715</text>
-      <text x="2340" y="30" text-anchor="middle">1715</text>
-      <text x="2400" y="30" text-anchor="middle">1715</text>
-      <text x="2460" y="30" text-anchor="middle">1715</text>
-      <text x="2520" y="30" text-anchor="middle">1715</text>
-      <text x="2580" y="30" text-anchor="middle">1750</text>
-      <text x="2640" y="30" text-anchor="middle">1750</text>
-      <text x="2700" y="30" text-anchor="middle">1750</text>
-      <text x="2760" y="30" text-anchor="middle">1750</text>
-      <text x="2820" y="30" text-anchor="middle">1750</text>
-      <text x="2880" y="30" text-anchor="middle">1750</text>
-      <text x="2940" y="30" text-anchor="middle">1750</text>
-      <text x="3000" y="30" text-anchor="middle">1750</text>
-      <text x="3060" y="30" text-anchor="middle">1750</text>
-      <text x="3120" y="30" text-anchor="middle">1750</text>
-      <text x="3180" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3240" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3300" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3360" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3420" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3480" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3540" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3600" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3660" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
-      <text x="3720" y="30" text-anchor="middle">1804 1806 1807 1810 1813 1819 1820</text>
+      <line x1="7750"
+            x2="7750"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7750" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7775"
+            x2="7775"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7775" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7800"
+            x2="7800"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7800" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7825"
+            x2="7825"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7825" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7850"
+            x2="7850"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7850" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7875"
+            x2="7875"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7875" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7900"
+            x2="7900"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7900" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7925"
+            x2="7925"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7925" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7950"
+            x2="7950"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7950" y="30" text-anchor="middle">YEAR</text>
+      <line x1="7975"
+            x2="7975"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="7975" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8000"
+            x2="8000"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8000" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8025"
+            x2="8025"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8025" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8050"
+            x2="8050"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8050" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8075"
+            x2="8075"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8075" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8100"
+            x2="8100"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8100" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8125"
+            x2="8125"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8125" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8150"
+            x2="8150"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8150" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8175"
+            x2="8175"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8175" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8200"
+            x2="8200"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8200" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8225"
+            x2="8225"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8225" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8250"
+            x2="8250"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8250" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8275"
+            x2="8275"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8275" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8300"
+            x2="8300"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8300" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8325"
+            x2="8325"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8325" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8350"
+            x2="8350"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8350" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8375"
+            x2="8375"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8375" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8400"
+            x2="8400"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8400" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8425"
+            x2="8425"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8425" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8450"
+            x2="8450"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8450" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8475"
+            x2="8475"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8475" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8500"
+            x2="8500"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8500" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8525"
+            x2="8525"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8525" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8550"
+            x2="8550"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8550" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8575"
+            x2="8575"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8575" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8600"
+            x2="8600"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8600" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8625"
+            x2="8625"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8625" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8650"
+            x2="8650"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8650" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8675"
+            x2="8675"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8675" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8700"
+            x2="8700"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8700" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8725"
+            x2="8725"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8725" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8750"
+            x2="8750"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8750" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8775"
+            x2="8775"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8775" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8800"
+            x2="8800"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8800" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8825"
+            x2="8825"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8825" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8850"
+            x2="8850"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8850" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8875"
+            x2="8875"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8875" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8900"
+            x2="8900"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8900" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8925"
+            x2="8925"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8925" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8950"
+            x2="8950"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8950" y="30" text-anchor="middle">YEAR</text>
+      <line x1="8975"
+            x2="8975"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="8975" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9000"
+            x2="9000"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9000" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9025"
+            x2="9025"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9025" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9050"
+            x2="9050"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9050" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9075"
+            x2="9075"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9075" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9100"
+            x2="9100"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9100" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9125"
+            x2="9125"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9125" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9150"
+            x2="9150"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9150" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9175"
+            x2="9175"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9175" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9200"
+            x2="9200"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9200" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9225"
+            x2="9225"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9225" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9250"
+            x2="9250"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9250" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9275"
+            x2="9275"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9275" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9300"
+            x2="9300"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9300" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9325"
+            x2="9325"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9325" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9350"
+            x2="9350"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9350" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9375"
+            x2="9375"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9375" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9400"
+            x2="9400"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9400" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9425"
+            x2="9425"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9425" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9450"
+            x2="9450"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9450" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9475"
+            x2="9475"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9475" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9500"
+            x2="9500"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9500" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9525"
+            x2="9525"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9525" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9550"
+            x2="9550"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9550" y="30" text-anchor="middle">YEAR</text>
+      <line x1="9575"
+            x2="9575"
+            y1="0"
+            y2="10"
+            stroke="black"
+            stroke-width="1"/>
+      <text x="9575" y="30" text-anchor="middle">YEAR</text>
    </g>
 </svg>

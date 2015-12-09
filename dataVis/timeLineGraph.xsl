@@ -55,6 +55,7 @@
                     <xsl:variable name="year" select="string(.)"/>
                     <xsl:if test="$year[ends-with($year, '0')] or $year[ends-with($year, '5')]">
                         <line x1="{xs:integer($year)*$xSpacer}" x2="{xs:integer($year)*$xSpacer}" y1="0" y2="10" stroke="black" stroke-width="1"/>
+                        <text x="{xs:integer($year)*$xSpacer}" y="30" text-anchor="middle">YEAR<!--<xsl:apply-templates select="distinct-values($year)"/>--></text>
                     </xsl:if>
                 </xsl:for-each>
                 
