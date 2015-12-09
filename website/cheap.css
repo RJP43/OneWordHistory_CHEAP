@@ -76,6 +76,7 @@ body{
 
 #content {
     margin:10px 10px 10px;
+    padding: 5px;
 	border:6px dotted #AD8D77;
 	border-radius:8px;
 	border-radius:.8em;
