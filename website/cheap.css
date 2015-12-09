@@ -73,6 +73,22 @@ body{
 	font-weight:normal;
 	color: #000000;
 }
+
+#content {
+    margin:10px 10px 10px;
+	border:6px dotted #AD8D77;
+	border-radius:8px;
+	border-radius:.8em;
+	border-radius:.8em;
+	font-size:large;
+	
+}
+#first {
+    font-size:medium;
+    border:2px dotted #8BB174;
+    text-align:center;
+}
+
 table, th, td {
    border: 1px solid black;
 }
