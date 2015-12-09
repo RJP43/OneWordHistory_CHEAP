@@ -47,7 +47,7 @@
                 </td>
                 <td><xsl:apply-templates select=".//printPlace"/></td>
                 <td><xsl:apply-templates select=".//passage"/></td>
-                <td><a href="{.//ref/@target}"><xsl:apply-templates select=".//document"/></a></td>
+                <td><a href="{.//ref/@target}.JPG"><xsl:apply-templates select=".//document"/></a></td>
                 <td><xsl:apply-templates select=".//definition"/><xsl:text> (</xsl:text><xsl:apply-templates select=".//definition/@ana"/><xsl:text>)</xsl:text></td>
             </tr>
         </xsl:for-each>

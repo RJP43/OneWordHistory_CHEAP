@@ -51,7 +51,7 @@
                 <td><xsl:apply-templates select=".//date/@when"/></td>
                 <td><xsl:apply-templates select=".//printPlace"/></td>
                 <td><xsl:apply-templates select=".//passage"/></td>
-                <td><a href="{.//ref/@target}"><xsl:apply-templates select=".//document"/></a></td>
+                <td><a href="{.//ref/@target}.JPG"><xsl:apply-templates select=".//document"/></a></td>
                 <td><xsl:choose>
                     <xsl:when test=".//definition[2]">
                         <xsl:apply-templates select=".//definition[1]"/><xsl:text> (</xsl:text><xsl:apply-templates select=".//definition[1]/@ana"/><xsl:text>)</xsl:text>
