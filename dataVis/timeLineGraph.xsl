@@ -60,10 +60,22 @@
                 </xsl:for-each>
                 
                 
+                <xsl:variable name="yPos1" select="(((count(//date[@when='1550' or '1554' or '1555']/following-sibling::definition[@ana='adjective'])) div (count(//definition[@ana]))) * 100)"/>
+        <circle cx="7750" cy="-{$yPos1}" r="5" fill="orange"/>
+                
+                
+                <xsl:apply-templates/>
+                
+                
                 <!--<xsl:apply-templates select="$samplesColl//bibl"/>-->
             </g>
         </svg>
     </xsl:template>
+    <!--<xsl:template match="bibl">
+        
+    </xsl:template>-->
+    
+    
     <!--<xsl:template match="bibl">
         <xsl:for-each-group select="$samplesColl//date" group-by="$samplesColl//date/@when">
             <xsl:variable name="xPos" select="position()*$interval"/>
