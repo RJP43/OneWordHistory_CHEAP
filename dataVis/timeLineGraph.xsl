@@ -13,86 +13,58 @@
     <xsl:template match="/">
         <svg width="150%" height="125%">
             <g transform="translate(-7600, 600)">
-                <text x="1875" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
-                <line x1="7675" x2="7675" y1="0" y2="-500" stroke="black" stroke-width="1"/>
-                
-                <!--<text x="1500" y="0" text-anchor="middle">0</text>
-                <text x="1500" y="-125" text-anchor="middle">25%</text>
-                <text x="1500" y="-250" text-anchor="middle">50%</text>
-                <text x="1500" y="-375" text-anchor="middle">75%</text>
-                <text x="1500" y="-500" text-anchor="middle">100%</text>-->
-                
-                <!--<text x="60" y="30" text-anchor="middle">1550</text>
-                <text x="120" y="30" text-anchor="middle">1554</text>
-                <text x="180" y="30" text-anchor="middle">1555</text>
-                <text x="240" y="30" text-anchor="middle">1556</text>
-                <text x="300" y="30" text-anchor="middle">1557</text>
-                <text x="360" y="30" text-anchor="middle">1560</text>
-                <text x="420" y="30" text-anchor="middle">1650</text>
-                <text x="480" y="30" text-anchor="middle">1652</text>
-                <text x="540" y="30" text-anchor="middle">1653</text>
-                <text x="600" y="30" text-anchor="middle">1655</text>
-                <text x="660" y="30" text-anchor="middle">1656</text>
-                <text x="720" y="30" text-anchor="middle">1657</text>
-                <text x="780" y="30" text-anchor="middle">1659</text>
-                <text x="840" y="30" text-anchor="middle">1660</text>
-                <text x="900" y="30" text-anchor="middle">1715</text>
-                <text x="960" y="30" text-anchor="middle">1750</text>
-                <text x="1020" y="30" text-anchor="middle">1804</text>
-                <text x="1080" y="30" text-anchor="middle">1806</text>
-                <text x="1140" y="30" text-anchor="middle">1807</text>
-                <text x="1200" y="30" text-anchor="middle">1810</text>
-                <text x="1260" y="30" text-anchor="middle">1813</text>
-                <text x="1320" y="30" text-anchor="middle">1819</text>
-                <text x="1380" y="30" text-anchor="middle">1820</text>
-                <text x="1440" y="30" text-anchor="middle">1915</text>-->
-                
-                <line x1="7675" x2="{1915*$xSpacer}" y1="0" y2="0" stroke="black" stroke-width="1"/>
+                <!-- title -->
+                <text x="1875" y="-575" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
+                <!-- y-Axis -->
+                <line x1="7700" x2="7700" y1="0" y2="-550" stroke="black" stroke-width="1"/>
+                <!-- y-axis marks -->
+                <text x="7680" y="-135" text-anchor="middle">25%</text>
+                <text x="7680" y="-260" text-anchor="middle">50%</text>
+                <text x="7680" y="-385" text-anchor="middle">75%</text>
+                <text x="7680" y="-510" text-anchor="middle">100%</text>
+                 <!-- x-axis -->              
+                <line x1="7700" x2="{1915*$xSpacer}" y1="0" y2="0" stroke="black" stroke-width="1"/>
                 
                 <xsl:variable name="minDate" select="xs:integer(min($samplesColl//date/@when))"/>
                 <xsl:variable name="maxDate" select="xs:integer(max($samplesColl//date/@when))"/>
+                
+                
+                <!-- x-axis marks -->
                 <xsl:for-each select="$minDate to $maxDate">
                     <xsl:variable name="year" select="string(.)"/>
                     <xsl:if test="$year[ends-with($year, '0')] or $year[ends-with($year, '5')]">
                         <line x1="{xs:integer($year)*$xSpacer}" x2="{xs:integer($year)*$xSpacer}" y1="0" y2="10" stroke="black" stroke-width="1"/>
-                        <text x="{xs:integer($year)*$xSpacer}" y="30" text-anchor="middle">YEAR<!--<xsl:apply-templates select="distinct-values($year)"/>--></text>
+                        
+                        <!--rjp 2015-12-08: two attempts at trying to get the dates to appear under the hash tags, but keeps saying the selection of the xsl:apply-templates isn't allowed to be a variable and something about an atomic value... ugh!-->
+                        <!--<xsl:if test="$year[ends-with($year, '0')]">
+                        <text x="{xs:integer($year)*$xSpacer}" y="30" text-anchor="middle"><xsl:apply-templates/></text>
+                        </xsl:if>-->
+                        <!--<text x="{xs:integer($year)*$xSpacer}" y="30" text-anchor="middle"><xsl:apply-templates select="{$year}"/></text> -->
+                        
                     </xsl:if>
                 </xsl:for-each>
                 
+                <!-- rjp 2015-12-08: this is my attempt at what Dr. B. was suggesting when I left her office this evening... this isn't working tho -->
+                <!--<xsl:for-each select="distinct-values(//date/@when)">
+                    
+                    <xsl:variable name="dot" select="count(//date[@when=.]/following-sibling::definition/@ana='adjective')"/>
+                    
+                    <circle cx="7750" cy="{$dot}" r="5" fill="red"/>
+                </xsl:for-each>-->
+                
+                
                 
                 <!--nll 2015-12-08:  Okay, so here is where I've got a couple dots!!  But I'm not sure if this is correct..Someone check me??-->
-                    <xsl:variable name="yPos1" select="(((count(//date[@when='1550' or '1554' or '1555']/following-sibling::definition[@ana='adjective'])) div (count(//definition[@ana]))) * 100)"/>
+                    <!--<xsl:variable name="yPos1" select="(((count(//date[@when='1550' or '1554' or '1555']/following-sibling::definition[@ana='adjective'])) div (count(//definition[@ana]))) * 100)"/>
                 <xsl:variable name="yPos2" select="(((count(//date[@when='1550' or '1554' or '1555']/following-sibling::definition[@ana='noun'])) div (count(//definition[@ana]))) * 100)"/>
                 <circle cx="7750" cy="-{$yPos1}" r="5" fill="orange"/>
                 <circle cx="7750" cy="-{$yPos2}" r="5" fill="green"/>
+               
+               <xsl:apply-templates/>-->
                 
                 
-                <xsl:apply-templates/>
                 
-                
-                <!--<xsl:apply-templates select="$samplesColl//bibl"/>-->
             </g>
         </svg>
-    </xsl:template>
-    <!--<xsl:template match="bibl">
-        
-    </xsl:template>-->
-    
-    
-    <!--<xsl:template match="bibl">
-        <xsl:for-each-group select="$samplesColl//date" group-by="$samplesColl//date/@when">
-            <xsl:variable name="xPos" select="position()*$interval"/>
-            <xsl:for-each select="//date">
-                <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="//distinct-values(@when)"/></text>
-            </xsl:for-each>
-        </xsl:for-each-group>
-    </xsl:template>-->    
-    <!--<xsl:template match="bibl">
-        <xsl:variable name="xPos" select="position()*$interval"/>
-        <xsl:for-each select="//date">
-        <text x="{$xPos}" y="30" text-anchor="middle"><xsl:value-of select="./distinct-values(//date/@when)"/></text>
-        </xsl:for-each>-->
-
-    <!--</xsl:template>-->
-    
+    </xsl:template>    
 </xsl:stylesheet>

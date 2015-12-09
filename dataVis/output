@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="150%" height="125%">
    <g transform="translate(-7600, 600)">
-      <text x="1875" y="-550" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
-      <line x1="7675"
-            x2="7675"
+      <text x="1875" y="-575" text-anchor="middle">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
+      <line x1="7700"
+            x2="7700"
             y1="0"
-            y2="-500"
+            y2="-550"
             stroke="black"
             stroke-width="1"/>
-      <line x1="7675"
+      <text x="7680" y="-135" text-anchor="middle">25%</text>
+      <text x="7680" y="-260" text-anchor="middle">50%</text>
+      <text x="7680" y="-385" text-anchor="middle">75%</text>
+      <text x="7680" y="-510" text-anchor="middle">100%</text>
+      <line x1="7700"
             x2="9575"
             y1="0"
             y2="0"
