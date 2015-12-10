@@ -84,9 +84,19 @@ body{
 	font-size:large;
 	
 }
+#text h2,h3,h4{
+    
+    text-align:center;
+}
+
+#text ul{
+    font-size:small;
+    list-style-type: none;
+    text-align:center;
+}
 #first {
     font-size:medium;
-    border:2px dotted #8BB174;
+    border:3px dotted #8BB174;
     text-align:center;
 }
 #other {
