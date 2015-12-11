@@ -12,7 +12,7 @@
     <xsl:template match="/">
         <svg width="100%" height="100%">
             <g transform="translate(200, 600)">
-                <!-- title -->
+                <g id="baseStuff"><!-- title -->
                 <text x="525" y="-525" text-anchor="middle" font-size="36px">From 1550-1915, Frequency of Particular Parts of Speech as seen in Sample Data</text>
                 <!-- y-Axis -->
                 <line x1="0" x2="0" y1="0" y2="-450" stroke="black" stroke-width="1"/>
@@ -39,9 +39,9 @@
                 <text x="800" y="25" text-anchor="middle">19th Cent. Samples</text>
                 <line x1="800" x2="800" y1="10" y2="-10" stroke="black" stroke-width="1"/>
                 <text x="1000" y="25" text-anchor="middle">20th Cent. Samples</text>
-                <line x1="1000" x2="1000" y1="10" y2="-10" stroke="black" stroke-width="1"/>
+                <line x1="1000" x2="1000" y1="10" y2="-10" stroke="black" stroke-width="1"/></g>
                 
-                <!-- 16th lines -->
+                <g id="connectors"><!-- 16th lines -->
                 <line x1="200" x2="400" y1="-356" y2="-30.8" stroke="orange" stroke-width="1"/>
                 <line x1="200" x2="400" y1="-44" y2="-248" stroke="green" stroke-width="1"/>
                 <line x1="200" x2="400" y1="0" y2="-92" stroke="purple" stroke-width="1"/>
@@ -60,9 +60,9 @@
                 <line x1="800" x2="1000" y1="0" y2="0" stroke="orange" stroke-width="1"/>
                 <line x1="800" x2="1000" y1="-400" y2="-400" stroke="green" stroke-width="1"/>
                 <line x1="800" x2="1000" y1="0" y2="0" stroke="purple" stroke-width="1"/>
-                <line x1="800" x2="1000" y1="0" y2="0" stroke="red" stroke-width="1"/>
+                <line x1="800" x2="1000" y1="0" y2="0" stroke="red" stroke-width="1"/></g>
                 
-               <!-- 16th points -->
+               <g id="dots"><!-- 16th points -->
                 <circle cx="200" cy="-356" r="5" fill="orange"/>
                 <circle cx="200" cy="-44" r="5" fill="green"/>
                 <circle cx="200" cy="0" r="5" fill="purple"/>
@@ -86,9 +86,9 @@
                 <circle cx="1000" cy="0" r="5" fill="orange"/>
                 <circle cx="1000" cy="-400" r="5" fill="green"/>
                 <circle cx="1000" cy="0" r="5" fill="purple"/>
-                <circle cx="1000" cy="0" r="5" fill="red"/>
+                <circle cx="1000" cy="0" r="5" fill="red"/></g>
                 
-                <!-- legend -->
+                <g id="legend"><!-- legend -->
                 <text x="250" y="-470" text-anchor="start">Nouns</text>
                 <line x1="300" x2="350" y1="-475" y2="-475" stroke="orange" stroke-width="20"/>
                 <text x="425" y="-470" text-anchor="start">Adjectives</text>
@@ -96,7 +96,7 @@
                 <text x="655" y="-470" text-anchor="start">Verbs</text>
                 <line x1="700" x2="750" y1="-475" y2="-475" stroke="purple" stroke-width="20"/>
                 <text x="840" y="-470" text-anchor="start">Adverbs</text>
-                <line x1="900" x2="950" y1="-475" y2="-475" stroke="red" stroke-width="20"/>
+                <line x1="900" x2="950" y1="-475" y2="-475" stroke="red" stroke-width="20"/></g>
                 
             </g>
         </svg>
