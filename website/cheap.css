@@ -123,4 +123,14 @@ h1, h2, h3, h4{
 h2.table{
     text-align: left;
 }
-
+#footer{
+    padding:5px;
+    margin:10px;
+    display: block;
+	clear: both;
+	border:2px solid #FFFFFF;
+	border-radius:8px;
+	border-radius:.8em;
+	border-radius:.8em;
+	text-align:center;
+}
